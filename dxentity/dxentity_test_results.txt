@@ -1,0 +1,324 @@
+AB3GY,United States
+ab3gy,United States
+2M0BDR,Shetland Islands
+WZ7I,United States
+2M0BDT,Shetland Islands
+3Y0E,Bouvet
+4U0WFP,Italy
+8J1ZIU/JD1,Minami Torishima
+9M4CSR,East Malaysia
+AB5JB,Alaska
+BS7H,Scarborough Reef
+CF2VVV,Canada
+DP0GVN,Antarctica
+EA8BFH/4,Spain
+EA9CD/P,Ceuta & Melilla
+FO/IZ2ZTQ,Marquesas Islands
+GB2DWR,Wales
+GM4WXQ,Shetland Islands
+HF0ARC,South Shetland Islands
+HK0TU,Malpelo Island
+IQ0AH/P,Sardinia
+JW9JKA,Bear Island
+K0OUS,Hawaii
+K8RF,US Virgin Islands
+KC4AAA,Antarctica
+KV4KW,US Virgin Islands
+LU4AA/D,Argentina
+MM6BZQ,Shetland Islands
+N2MI,Guam
+NH2B,Mariana Islands
+NY6DX,United States
+OF100FI/0,Aland Islands
+R3YAB/9/P,Asiatic Russia
+RN17CW,Asiatic Russia
+SV0XCA/5,Dodecanese
+SV2ASP/A,Mount Athos
+TO2T,Guadeloupe
+TX5C,New Caledonia
+UA4PN,European Russia
+VA2UA,Canada
+VER20170814,Canada
+VP8DXU,South Sandwich Islands
+W0UNI,Hawaii
+W2KRZ,Alaska
+W6KV,Guam
+WB4JTT,Hawaii
+1Abcd,Sov Mil Order of Malta
+ZZabc,Brazil
+2Abcdefg,Scotland
+2Wabcdef,Wales
+3G0Xabcd,San Felix & San Ambrosio
+3Zabcdef,Poland
+4A4abcde,Revillagigedo
+4Zabcdef,Israel
+5J0abcde,San Andres & Providencia
+5Zabcdef,Kenya
+6D4abcde,Revillagigedo
+6Zabcdef,Liberia
+7Abcddef,Indonesia
+7Zabcdef,Saudi Arabia
+8Abcdefg,Indonesia
+8Zabcdef,Saudi Arabia
+9M0abcde,Spratly Islands
+9Zabcdef,Trinidad & Tobago
+AH7Kabcd,Kure Island
+AZabcdef,Argentina
+BA2Abcde,China
+BZabcdef,China
+CA0Xabcd,San Felix & San Ambrosio
+CXabcdef,Uruguay
+D2abcdef,Angola
+DZabcdef,Philippines
+EX0Pabcd,Kyrgyzstan
+EZabcdef,Turkmenistan
+FT0Eabcd,Juan de Nova, Europa
+Fabcdefg,France
+GAbcdefg,Scotland
+Gbcdefgh,England
+HJ0Mabcd,Malpelo Island
+HZabcdef,Saudi Arabia
+IW0Uabcd,Sardinia
+Iabcdefg,Italy
+J45abcde,Dodecanese
+JZabcdef,Indonesia
+KH7Kabcd,Kure Island
+Kabcdefg,United States
+L20Vabcd,Argentina
+LZabcdef,Bulgaria
+MAbcdefg,Scotland
+M123abcd,England
+NH7Kabcd,Kure Island
+Nabcdefg,United States
+OF0abcde,Aland Islands
+OZabcdef,Denmark
+PP0ZFabc,Fernando de Noronha
+PZabcdef,Suriname
+RI1ANabc,Antarctica
+Rabcdefg,European Russia
+SV5abcde,Dodecanese
+SZabcdef,Greece
+T30abcde,Western Kiribati
+TZabcdef,Mali
+UA0Tabcd,Asiatic Russia
+U123abcd,European Russia
+VK9FCabc,Cocos (Keeling) Islands
+VZabcdef,Australia
+WH7Kabcd,Kure Island
+W123abcd,United States
+XQ0Xabcd,San Felix & San Ambrosio
+XZabcdef,Myanmar
+YB0abcde,Indonesia
+YYabcdef,Venezuela
+ZV0ZFabc,Fernando de Noronha
+ZZabcdef,Brazil
+*** No country for 0abcdefg ***
+*** No country for Qabcdefg ***
+*** No country for CZabcdef ***
+*** No country for HMabcdef ***
+*** No country for JBcdefgh ***
+*** No country for T9abcdef ***
+*** No country for XJabcdef ***
+*** No country for YZabcdef ***
+AH6FF,United States
+KD5JHE,United States
+NZ4DX,United States
+KD2KW,United States
+K1VG,United States
+AJ4HW,United States
+K9VER,United States
+N0GB,United States
+AD4JH,United States
+NA4MM,United States
+VE9DX,Canada
+W3HF,United States
+N5SLY,United States
+AA5VZ,United States
+N9JCA,United States
+KC0JQO,United States
+KJ4IZW,United States
+K8FER,United States
+W5WF,United States
+AJ4WC,United States
+KC0JRW,United States
+KT4NM,United States
+W4IOU,United States
+N4YZ,United States
+VA3XOV,Canada
+AA9UF,United States
+XE1GRR,Mexico
+IT9BLB,Sicily
+F6HKA,France
+SP8NR,Poland
+CR6K,Portugal
+NX0I,United States
+W9MU,United States
+KC8IMB,United States
+SN7Q,Poland
+S50W,Slovenia
+VP9I,Bermuda
+K2A,United States
+KC2QFR,United States
+KD5BYB,United States
+N3PPH,United States
+VA3TPS,Canada
+KG4IBD,Guantanamo Bay
+K0ACP,United States
+NQ6L,United States
+N9AVY,United States
+K4PBY,United States
+WD9FTZ,United States
+N0NM,United States
+TM1W,France
+CX4DX,Uruguay
+W0MRZ,United States
+W0PC,United States
+OZ2TF,Denmark
+YT8A,Serbia
+P49X,Aruba
+G5D,England
+W9NGA,United States
+K0RU,United States
+AE5PW,United States
+GW4SKA,Wales
+KE5PRL,United States
+N4AU,United States
+K4OP,United States
+KT6D,United States
+NO8R,United States
+W0UK,United States
+WX3SKY,United States
+HC1HC,Ecuador
+NC7J,United States
+K0TG,United States
+US5I,Ukraine
+IW0SAF,Italy
+DK3GI,Fed. Rep. of Germany
+NI7F,United States
+9A5D,Croatia
+K3WW,United States
+UA4M,European Russia
+WI0WA,United States
+K7RE,United States
+VE7UF,Canada
+AI4FR,United States
+N3BUO,United States
+AB8CL,United States
+OM3LK,Slovak Republic
+WA4LOX,United States
+FM5CD,Martinique
+W4UK,United States
+K0WA,United States
+K0PK,United States
+AD5XD,United States
+WT9Q,United States
+AG4CZ,United States
+KV9O,United States
+KE0WM,United States
+K6MKF,United States
+WX6Y,United States
+KE4UNA,United States
+K5AM,United States
+OP7B,Belgium
+VE3TMT,Canada
+VE3NOO/QRP,Canada
+W5VGR,United States
+KK3Q,United States
+EA3BHK,Spain
+RA4HL,European Russia
+W5VGR,United States
+F5TTI,France
+K7RE,United States
+S50A,Slovenia
+DL2NAU,Fed. Rep. of Germany
+N0NM,United States
+VA3TPS,Canada
+OD5RZ,Lebanon
+NO8R,United States
+N2S,United States
+WX7P,United States
+WQ9Z,United States
+K5TR,United States
+PW2P,Brazil
+WK4P,United States
+WB9AUJ,United States
+W9RH,United States
+KP3RE,Puerto Rico
+KD5DE,United States
+KC2QFR,United States
+NU4C,United States
+AI6O,United States
+KD7RX,United States
+KC4TVZ,United States
+KA9BHD,United States
+AD5ZA,United States
+WX6Y,United States
+VE7HBS,Canada
+AC7JW,United States
+W9TTT,United States
+W7NNN,United States
+HA9RU,Hungary
+N1SXL,United States
+NJ1F,United States
+HI3CCP,Dominican Republic
+K7RE,United States
+EA5DKU,Spain
+TM9R,France
+EE2W,Spain
+WP4SK,Puerto Rico
+OQ7T,Belgium
+CT7A,Portugal
+HI3TEJ,Dominican Republic
+VA7ST,Canada
+AB0S,United States
+KI7K,United States
+N7TR,United States
+NT0F,United States
+KK1X,United States
+K0FX,United States
+MI0EPC,Northern Ireland
+W3TZ,United States
+KB9OWD,United States
+N2GWK,United States
+N7LYR,United States
+KI2Y,United States
+WB1HBQ,United States
+N9SB,United States
+KF4AAF,United States
+WB1W,United States
+KK3Q,United States
+W1CTN,United States
+WA4EEZ,United States
+T47C,Cuba
+KB2VMG,United States
+KC9KTV,United States
+N3MK,United States
+KB3LIX,United States
+W7OM,United States
+N3MK,United States
+WB5TEQ,United States
+XE3RR,Mexico
+NF4A,United States
+K4FAU,United States
+VY2TT,Canada
+W1ECH,United States
+K0XTR,United States
+WA7NB,United States
+K5WA,United States
+VO2NS,Canada
+K0RF,United States
+N3RJ,United States
+W9QL,United States
+K8JQ,United States
+N1TL,United States
+KD4SM,United States
+TF8GX,Iceland
+M6T,England
+KN5H,United States
+LZ1ND,Bulgaria
+WA4WKL,United States
+KK4SZ,United States
+SN0HQ,Poland
+K0RH,United States
+YV5ANF,Venezuela
+RN6BY,European Russia

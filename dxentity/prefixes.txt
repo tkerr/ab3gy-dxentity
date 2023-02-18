@@ -1,0 +1,4527 @@
+1A,Sov Mil Order of Malta
+2A,Scotland
+2D,Isle of Man
+2E,England
+2I,Northern Ireland
+2J,Jersey
+2M,Scotland
+2U,Guernsey
+2W,Wales
+3G0X,San Felix & San Ambrosio
+3G0Z,Juan Fernandez Islands
+3B6,Agalega & St. Brandon
+3B7,Agalega & St. Brandon
+3B8,Mauritius
+3B9,Rodriguez Island
+3C0,Annobon Island
+3D2,Fiji
+3DA,Swaziland
+3G0,Easter Island
+3G7,Chile
+3G8,Chile
+3H0,China
+3H9,China
+3I0,China
+3I9,China
+3J0,China
+3J9,China
+3K0,China
+3K9,China
+3L0,China
+3L9,China
+3M0,China
+3M9,China
+3N0,China
+3N9,China
+3O0,China
+3O9,China
+3P0,China
+3P9,China
+3Q0,China
+3Q9,China
+3R0,China
+3R9,China
+3S0,China
+3S9,China
+3T0,China
+3T9,China
+3U0,China
+3U9,China
+3A,Monaco
+3C,Equatorial Guinea
+3E,Panama
+3F,Panama
+3G,Chile
+3H,China
+3I,China
+3J,China
+3K,China
+3L,China
+3M,China
+3N,China
+3O,China
+3P,China
+3Q,China
+3R,China
+3S,China
+3T,China
+3U,China
+3V,Tunisia
+3W,Vietnam
+3X,Guinea
+3Y,Antarctica
+3Z,Poland
+4A4,Revillagigedo
+4B4,Revillagigedo
+4C4,Revillagigedo
+4M0,Aves Island
+4A,Mexico
+4B,Mexico
+4C,Mexico
+4D,Philippines
+4E,Philippines
+4F,Philippines
+4G,Philippines
+4H,Philippines
+4I,Philippines
+4J,Azerbaijan
+4K,Azerbaijan
+4L,Georgia
+4M,Venezuela
+4O,Montenegro
+4P,Sri Lanka
+4Q,Sri Lanka
+4R,Sri Lanka
+4S,Sri Lanka
+4T,Peru
+4V,Haiti
+4W,Timor - Leste
+4X,Israel
+4Z,Israel
+5J0,San Andres & Providencia
+5K0,San Andres & Providencia
+5A,Libya
+5B,Cyprus
+5C,Morocco
+5D,Morocco
+5E,Morocco
+5F,Morocco
+5G,Morocco
+5H,Tanzania
+5I,Tanzania
+5J,Colombia
+5K,Colombia
+5L,Liberia
+5M,Liberia
+5N,Nigeria
+5O,Nigeria
+5P,Denmark
+5Q,Denmark
+5R,Madagascar
+5S,Madagascar
+5T,Mauritania
+5U,Niger
+5V,Togo
+5W,Samoa
+5X,Uganda
+5Y,Kenya
+5Z,Kenya
+6D4,Revillagigedo
+6E4,Revillagigedo
+6F4,Revillagigedo
+6G4,Revillagigedo
+6H4,Revillagigedo
+6I4,Revillagigedo
+6J4,Revillagigedo
+6A,Egypt
+6B,Egypt
+6C,Syria
+6D,Mexico
+6E,Mexico
+6F,Mexico
+6G,Mexico
+6H,Mexico
+6I,Mexico
+6J,Mexico
+6K,Republic of Korea
+6L,Republic of Korea
+6M,Republic of Korea
+6N,Republic of Korea
+6O,Somalia
+6P,Pakistan
+6Q,Pakistan
+6R,Pakistan
+6S,Pakistan
+6T,Sudan
+6U,Sudan
+6V,Senegal
+6W,Senegal
+6X,Madagascar
+6Y,Jamaica
+6Z,Liberia
+7A,Indonesia
+7B,Indonesia
+7C,Indonesia
+7D,Indonesia
+7E,Indonesia
+7F,Indonesia
+7G,Indonesia
+7H,Indonesia
+7I,Indonesia
+7J,Japan
+7K,Japan
+7L,Japan
+7M,Japan
+7N,Japan
+7O,Yemen
+7P,Lesotho
+7Q,Malawi
+7R,Algeria
+7S,Sweden
+7T,Algeria
+7U,Algeria
+7V,Algeria
+7W,Algeria
+7X,Algeria
+7Y,Algeria
+7Z,Saudi Arabia
+8A,Indonesia
+8B,Indonesia
+8C,Indonesia
+8D,Indonesia
+8E,Indonesia
+8F,Indonesia
+8G,Indonesia
+8H,Indonesia
+8I,Indonesia
+8J,Japan
+8K,Japan
+8L,Japan
+8M,Japan
+8N,Japan
+8O,Botswana
+8P,Barbados
+8Q,Maldives
+8R,Guyana
+8S,Sweden
+8T,India
+8U,India
+8V,India
+8W,India
+8X,India
+8Y,India
+8Z,Saudi Arabia
+9M0,Spratly Islands
+9M6,East Malaysia
+9M8,East Malaysia
+9W6,East Malaysia
+9W8,East Malaysia
+9A,Croatia
+9B,Iran
+9C,Iran
+9D,Iran
+9E,Ethiopia
+9F,Ethiopia
+9G,Ghana
+9H,Malta
+9I,Zambia
+9J,Zambia
+9K,Kuwait
+9L,Sierra Leone
+9M,West Malaysia
+9N,Nepal
+9O,Dem. Rep. of the Congo
+9P,Dem. Rep. of the Congo
+9Q,Dem. Rep. of the Congo
+9R,Dem. Rep. of the Congo
+9S,Dem. Rep. of the Congo
+9T,Dem. Rep. of the Congo
+9U,Burundi
+9V,Singapore
+9W,West Malaysia
+9X,Rwanda
+9Y,Trinidad & Tobago
+9Z,Trinidad & Tobago
+AH7K,Kure Island
+AX9C,Cocos (Keeling) Islands
+AX9L,Lord Howe Island
+AX9M,Mellish Reef
+AX9W,Willis Island
+AX9X,Christmas Island
+AX9Y,Cocos (Keeling) Islands
+AX9Z,Willis Island
+AY0V,Argentina
+AY0W,Argentina
+AY0X,Argentina
+AY0Y,Argentina
+AY1V,Argentina
+AY1W,Argentina
+AY1X,Argentina
+AY1Y,Argentina
+AY1Z,Antarctica
+AY2V,Argentina
+AY2W,Argentina
+AY2X,Argentina
+AY2Y,Argentina
+AY2Z,Antarctica
+AY3V,Argentina
+AY3W,Argentina
+AY3X,Argentina
+AY3Y,Argentina
+AY3Z,Antarctica
+AY4V,Argentina
+AY4W,Argentina
+AY4X,Argentina
+AY4Y,Argentina
+AY4Z,Antarctica
+AY5V,Argentina
+AY5W,Argentina
+AY5X,Argentina
+AY5Y,Argentina
+AY5Z,Antarctica
+AY6V,Argentina
+AY6W,Argentina
+AY6X,Argentina
+AY6Y,Argentina
+AY6Z,Antarctica
+AY7V,Argentina
+AY7W,Argentina
+AY7X,Argentina
+AY7Y,Argentina
+AY7Z,Antarctica
+AY8V,Argentina
+AY8W,Argentina
+AY8X,Argentina
+AY8Y,Argentina
+AY8Z,Antarctica
+AY9V,Argentina
+AY9W,Argentina
+AY9X,Argentina
+AY9Y,Argentina
+AY9Z,Antarctica
+AZ0V,Argentina
+AZ0W,Argentina
+AZ0X,Argentina
+AZ0Y,Argentina
+AZ1V,Argentina
+AZ1W,Argentina
+AZ1X,Argentina
+AZ1Y,Argentina
+AZ2V,Argentina
+AZ2W,Argentina
+AZ2X,Argentina
+AZ2Y,Argentina
+AZ3V,Argentina
+AZ3W,Argentina
+AZ3X,Argentina
+AZ3Y,Argentina
+AZ4V,Argentina
+AZ4W,Argentina
+AZ4X,Argentina
+AZ4Y,Argentina
+AZ5V,Argentina
+AZ5W,Argentina
+AZ5X,Argentina
+AZ5Y,Argentina
+AZ6V,Argentina
+AZ6W,Argentina
+AZ6X,Argentina
+AZ6Y,Argentina
+AZ7V,Argentina
+AZ7W,Argentina
+AZ7X,Argentina
+AZ7Y,Argentina
+AZ8V,Argentina
+AZ8W,Argentina
+AZ8X,Argentina
+AZ8Y,Argentina
+AZ9V,Argentina
+AZ9W,Argentina
+AZ9X,Argentina
+AZ9Y,Argentina
+AH0,Mariana Islands
+AH1,Baker & Howland Islands
+AH2,Guam
+AH3,Johnston Island
+AH4,Midway Island
+AH5,Palmyra & Jarvis Islands
+AH6,Hawaii
+AH7,Hawaii
+AH8,American Samoa
+AH9,Wake Island
+AM6,Balearic Islands
+AM8,Canary Islands
+AM9,Ceuta & Melilla
+AN6,Balearic Islands
+AN8,Canary Islands
+AN9,Ceuta & Melilla
+AO6,Balearic Islands
+AO8,Canary Islands
+AO9,Ceuta & Melilla
+AX0,Antarctica
+AX4,Australia
+AX9,Norfolk Island
+A2,Botswana
+A3,Tonga
+A4,Oman
+A5,Bhutan
+A6,United Arab Emirates
+A7,Qatar
+A8,Liberia
+A9,Bahrain
+AA,United States
+AB,United States
+AC,United States
+AD,United States
+AE,United States
+AF,United States
+AG,United States
+AI,United States
+AJ,United States
+AK,United States
+AL,Alaska
+AM,Spain
+AN,Spain
+AO,Spain
+AP,Pakistan
+AQ,Pakistan
+AR,Pakistan
+AS,Pakistan
+AT,India
+AU,India
+AV,India
+AW,India
+AX,Australia
+AY,Argentina
+AZ,Argentina
+BA2A,China
+BA2B,China
+BA2C,China
+BA2D,China
+BA2E,China
+BA2F,China
+BA2G,China
+BA2H,China
+BA2I,China
+BA2J,China
+BA2K,China
+BA2L,China
+BA2M,China
+BA2N,China
+BA2O,China
+BA2P,China
+BA3G,China
+BA3H,China
+BA3I,China
+BA3J,China
+BA3K,China
+BA3L,China
+BA6Q,China
+BA6R,China
+BA6S,China
+BA6T,China
+BA6U,China
+BA6V,China
+BA6W,China
+BA6X,China
+BA7A,China
+BA7B,China
+BA7C,China
+BA7D,China
+BA7E,China
+BA7F,China
+BA7G,China
+BA7H,China
+BA7Q,China
+BA7R,China
+BA7S,China
+BA7T,China
+BA7U,China
+BA7V,China
+BA7W,China
+BA7X,China
+BA8A,China
+BA8B,China
+BA8C,China
+BA8D,China
+BA8E,China
+BA8F,China
+BA8G,China
+BA8H,China
+BA8I,China
+BA8J,China
+BA8K,China
+BA8L,China
+BA8M,China
+BA8N,China
+BA8O,China
+BA8P,China
+BA8Q,China
+BA8R,China
+BA8S,China
+BA8T,China
+BA8U,China
+BA8V,China
+BA8W,China
+BA8X,China
+BA9A,China
+BA9B,China
+BA9C,China
+BA9D,China
+BA9E,China
+BA9F,China
+BA9S,China
+BA9T,China
+BA9U,China
+BA9V,China
+BA9W,China
+BA9X,China
+BD2A,China
+BD2B,China
+BD2C,China
+BD2D,China
+BD2E,China
+BD2F,China
+BD2G,China
+BD2H,China
+BD2I,China
+BD2J,China
+BD2K,China
+BD2L,China
+BD2M,China
+BD2N,China
+BD2O,China
+BD2P,China
+BD3G,China
+BD3H,China
+BD3I,China
+BD3J,China
+BD3K,China
+BD3L,China
+BD6Q,China
+BD6R,China
+BD6S,China
+BD6T,China
+BD6U,China
+BD6V,China
+BD6W,China
+BD6X,China
+BD7A,China
+BD7B,China
+BD7C,China
+BD7D,China
+BD7E,China
+BD7F,China
+BD7G,China
+BD7H,China
+BD7Q,China
+BD7R,China
+BD7S,China
+BD7T,China
+BD7U,China
+BD7V,China
+BD7W,China
+BD7X,China
+BD8A,China
+BD8B,China
+BD8C,China
+BD8D,China
+BD8E,China
+BD8F,China
+BD8G,China
+BD8H,China
+BD8I,China
+BD8J,China
+BD8K,China
+BD8L,China
+BD8M,China
+BD8N,China
+BD8O,China
+BD8P,China
+BD8Q,China
+BD8R,China
+BD8S,China
+BD8T,China
+BD8U,China
+BD8V,China
+BD8W,China
+BD8X,China
+BD9A,China
+BD9B,China
+BD9C,China
+BD9D,China
+BD9E,China
+BD9F,China
+BD9S,China
+BD9T,China
+BD9U,China
+BD9V,China
+BD9W,China
+BD9X,China
+BG2A,China
+BG2B,China
+BG2C,China
+BG2D,China
+BG2E,China
+BG2F,China
+BG2G,China
+BG2H,China
+BG2I,China
+BG2J,China
+BG2K,China
+BG2L,China
+BG2M,China
+BG2N,China
+BG2O,China
+BG2P,China
+BG3G,China
+BG3H,China
+BG3I,China
+BG3J,China
+BG3K,China
+BG3L,China
+BG6Q,China
+BG6R,China
+BG6S,China
+BG6T,China
+BG6U,China
+BG6V,China
+BG6W,China
+BG6X,China
+BG7A,China
+BG7B,China
+BG7C,China
+BG7D,China
+BG7E,China
+BG7F,China
+BG7G,China
+BG7H,China
+BG7Q,China
+BG7R,China
+BG7S,China
+BG7T,China
+BG7U,China
+BG7V,China
+BG7W,China
+BG7X,China
+BG8A,China
+BG8B,China
+BG8C,China
+BG8D,China
+BG8E,China
+BG8F,China
+BG8G,China
+BG8H,China
+BG8I,China
+BG8J,China
+BG8K,China
+BG8L,China
+BG8M,China
+BG8N,China
+BG8O,China
+BG8P,China
+BG8Q,China
+BG8R,China
+BG8S,China
+BG8T,China
+BG8U,China
+BG8V,China
+BG8W,China
+BG8X,China
+BG9A,China
+BG9B,China
+BG9C,China
+BG9D,China
+BG9E,China
+BG9F,China
+BG9S,China
+BG9T,China
+BG9U,China
+BG9V,China
+BG9W,China
+BG9X,China
+BH2A,China
+BH2B,China
+BH2C,China
+BH2D,China
+BH2E,China
+BH2F,China
+BH2G,China
+BH2H,China
+BH2I,China
+BH2J,China
+BH2K,China
+BH2L,China
+BH2M,China
+BH2N,China
+BH2O,China
+BH2P,China
+BH3G,China
+BH3H,China
+BH3I,China
+BH3J,China
+BH3K,China
+BH3L,China
+BH6Q,China
+BH6R,China
+BH6S,China
+BH6T,China
+BH6U,China
+BH6V,China
+BH6W,China
+BH6X,China
+BH7A,China
+BH7B,China
+BH7C,China
+BH7D,China
+BH7E,China
+BH7F,China
+BH7G,China
+BH7H,China
+BH7Q,China
+BH7R,China
+BH7S,China
+BH7T,China
+BH7U,China
+BH7V,China
+BH7W,China
+BH7X,China
+BH8A,China
+BH8B,China
+BH8C,China
+BH8D,China
+BH8E,China
+BH8F,China
+BH8G,China
+BH8H,China
+BH8I,China
+BH8J,China
+BH8K,China
+BH8L,China
+BH8M,China
+BH8N,China
+BH8O,China
+BH8P,China
+BH8Q,China
+BH8R,China
+BH8S,China
+BH8T,China
+BH8U,China
+BH8V,China
+BH8W,China
+BH8X,China
+BH9A,China
+BH9B,China
+BH9C,China
+BH9D,China
+BH9E,China
+BH9F,China
+BH9S,China
+BH9T,China
+BH9U,China
+BH9V,China
+BH9W,China
+BH9X,China
+BI2A,China
+BI2B,China
+BI2C,China
+BI2D,China
+BI2E,China
+BI2F,China
+BI2G,China
+BI2H,China
+BI2I,China
+BI2J,China
+BI2K,China
+BI2L,China
+BI2M,China
+BI2N,China
+BI2O,China
+BI2P,China
+BI3G,China
+BI3H,China
+BI3I,China
+BI3J,China
+BI3K,China
+BI3L,China
+BI6Q,China
+BI6R,China
+BI6S,China
+BI6T,China
+BI6U,China
+BI6V,China
+BI6W,China
+BI6X,China
+BI7A,China
+BI7B,China
+BI7C,China
+BI7D,China
+BI7E,China
+BI7F,China
+BI7G,China
+BI7H,China
+BI7Q,China
+BI7R,China
+BI7S,China
+BI7T,China
+BI7U,China
+BI7V,China
+BI7W,China
+BI7X,China
+BI8A,China
+BI8B,China
+BI8C,China
+BI8D,China
+BI8E,China
+BI8F,China
+BI8G,China
+BI8H,China
+BI8I,China
+BI8J,China
+BI8K,China
+BI8L,China
+BI8M,China
+BI8N,China
+BI8O,China
+BI8P,China
+BI8Q,China
+BI8R,China
+BI8S,China
+BI8T,China
+BI8U,China
+BI8V,China
+BI8W,China
+BI8X,China
+BI9A,China
+BI9B,China
+BI9C,China
+BI9D,China
+BI9E,China
+BI9F,China
+BI9S,China
+BI9T,China
+BI9U,China
+BI9V,China
+BI9W,China
+BI9X,China
+BJ2A,China
+BJ2B,China
+BJ2C,China
+BJ2D,China
+BJ2E,China
+BJ2F,China
+BJ2G,China
+BJ2H,China
+BJ2I,China
+BJ2J,China
+BJ2K,China
+BJ2L,China
+BJ2M,China
+BJ2N,China
+BJ2O,China
+BJ2P,China
+BJ3G,China
+BJ3H,China
+BJ3I,China
+BJ3J,China
+BJ3K,China
+BJ3L,China
+BJ6Q,China
+BJ6R,China
+BJ6S,China
+BJ6T,China
+BJ6U,China
+BJ6V,China
+BJ6W,China
+BJ6X,China
+BJ7A,China
+BJ7B,China
+BJ7C,China
+BJ7D,China
+BJ7E,China
+BJ7F,China
+BJ7G,China
+BJ7H,China
+BJ7Q,China
+BJ7R,China
+BJ7S,China
+BJ7T,China
+BJ7U,China
+BJ7V,China
+BJ7W,China
+BJ7X,China
+BJ8A,China
+BJ8B,China
+BJ8C,China
+BJ8D,China
+BJ8E,China
+BJ8F,China
+BJ8G,China
+BJ8H,China
+BJ8I,China
+BJ8J,China
+BJ8K,China
+BJ8L,China
+BJ8M,China
+BJ8N,China
+BJ8O,China
+BJ8P,China
+BJ8Q,China
+BJ8R,China
+BJ8S,China
+BJ8T,China
+BJ8U,China
+BJ8V,China
+BJ8W,China
+BJ8X,China
+BJ9A,China
+BJ9B,China
+BJ9C,China
+BJ9D,China
+BJ9E,China
+BJ9F,China
+BJ9S,China
+BJ9T,China
+BJ9U,China
+BJ9V,China
+BJ9W,China
+BJ9X,China
+BL2A,China
+BL2B,China
+BL2C,China
+BL2D,China
+BL2E,China
+BL2F,China
+BL2G,China
+BL2H,China
+BL2I,China
+BL2J,China
+BL2K,China
+BL2L,China
+BL2M,China
+BL2N,China
+BL2O,China
+BL2P,China
+BL3G,China
+BL3H,China
+BL3I,China
+BL3J,China
+BL3K,China
+BL3L,China
+BL6Q,China
+BL6R,China
+BL6S,China
+BL6T,China
+BL6U,China
+BL6V,China
+BL6W,China
+BL6X,China
+BL7A,China
+BL7B,China
+BL7C,China
+BL7D,China
+BL7E,China
+BL7F,China
+BL7G,China
+BL7H,China
+BL7Q,China
+BL7R,China
+BL7S,China
+BL7T,China
+BL7U,China
+BL7V,China
+BL7W,China
+BL7X,China
+BL8A,China
+BL8B,China
+BL8C,China
+BL8D,China
+BL8E,China
+BL8F,China
+BL8G,China
+BL8H,China
+BL8I,China
+BL8J,China
+BL8K,China
+BL8L,China
+BL8M,China
+BL8N,China
+BL8O,China
+BL8P,China
+BL8Q,China
+BL8R,China
+BL8S,China
+BL8T,China
+BL8U,China
+BL8V,China
+BL8W,China
+BL8X,China
+BL9A,China
+BL9B,China
+BL9C,China
+BL9D,China
+BL9E,China
+BL9F,China
+BL9S,China
+BL9T,China
+BL9U,China
+BL9V,China
+BL9W,China
+BL9X,China
+BM9P,Pratas Island
+BM9S,Spratly Islands
+BN9P,Pratas Island
+BN9S,Spratly Islands
+BO9P,Pratas Island
+BO9S,Spratly Islands
+BP9P,Pratas Island
+BP9S,Spratly Islands
+BQ9P,Pratas Island
+BQ9S,Spratly Islands
+BT2A,China
+BT2B,China
+BT2C,China
+BT2D,China
+BT2E,China
+BT2F,China
+BT2G,China
+BT2H,China
+BT2I,China
+BT2J,China
+BT2K,China
+BT2L,China
+BT2M,China
+BT2N,China
+BT2O,China
+BT2P,China
+BT3G,China
+BT3H,China
+BT3I,China
+BT3J,China
+BT3K,China
+BT3L,China
+BT6Q,China
+BT6R,China
+BT6S,China
+BT6T,China
+BT6U,China
+BT6V,China
+BT6W,China
+BT6X,China
+BT7A,China
+BT7B,China
+BT7C,China
+BT7D,China
+BT7E,China
+BT7F,China
+BT7G,China
+BT7H,China
+BT7Q,China
+BT7R,China
+BT7S,China
+BT7T,China
+BT7U,China
+BT7V,China
+BT7W,China
+BT7X,China
+BT8A,China
+BT8B,China
+BT8C,China
+BT8D,China
+BT8E,China
+BT8F,China
+BT8G,China
+BT8H,China
+BT8I,China
+BT8J,China
+BT8K,China
+BT8L,China
+BT8M,China
+BT8N,China
+BT8O,China
+BT8P,China
+BT8Q,China
+BT8R,China
+BT8S,China
+BT8T,China
+BT8U,China
+BT8V,China
+BT8W,China
+BT8X,China
+BT9A,China
+BT9B,China
+BT9C,China
+BT9D,China
+BT9E,China
+BT9F,China
+BT9S,China
+BT9T,China
+BT9U,China
+BT9V,China
+BT9W,China
+BT9X,China
+BU9P,Pratas Island
+BU9S,Spratly Islands
+BV9P,Pratas Island
+BV9S,Spratly Islands
+BW9P,Pratas Island
+BW9S,Spratly Islands
+BX9P,Pratas Island
+BX9S,Spratly Islands
+BY2A,China
+BY2B,China
+BY2C,China
+BY2D,China
+BY2E,China
+BY2F,China
+BY2G,China
+BY2H,China
+BY2I,China
+BY2J,China
+BY2K,China
+BY2L,China
+BY2M,China
+BY2N,China
+BY2O,China
+BY2P,China
+BY3G,China
+BY3H,China
+BY3I,China
+BY3J,China
+BY3K,China
+BY3L,China
+BY6Q,China
+BY6R,China
+BY6S,China
+BY6T,China
+BY6U,China
+BY6V,China
+BY6W,China
+BY6X,China
+BY7A,China
+BY7B,China
+BY7C,China
+BY7D,China
+BY7E,China
+BY7F,China
+BY7G,China
+BY7H,China
+BY7Q,China
+BY7R,China
+BY7S,China
+BY7T,China
+BY7U,China
+BY7V,China
+BY7W,China
+BY7X,China
+BY8A,China
+BY8B,China
+BY8C,China
+BY8D,China
+BY8E,China
+BY8F,China
+BY8G,China
+BY8H,China
+BY8I,China
+BY8J,China
+BY8K,China
+BY8L,China
+BY8M,China
+BY8N,China
+BY8O,China
+BY8P,China
+BY8Q,China
+BY8R,China
+BY8S,China
+BY8T,China
+BY8U,China
+BY8V,China
+BY8W,China
+BY8X,China
+BY9A,China
+BY9B,China
+BY9C,China
+BY9D,China
+BY9E,China
+BY9F,China
+BY9S,China
+BY9T,China
+BY9U,China
+BY9V,China
+BY9W,China
+BY9X,China
+BZ2A,China
+BZ2B,China
+BZ2C,China
+BZ2D,China
+BZ2E,China
+BZ2F,China
+BZ2G,China
+BZ2H,China
+BZ2I,China
+BZ2J,China
+BZ2K,China
+BZ2L,China
+BZ2M,China
+BZ2N,China
+BZ2O,China
+BZ2P,China
+BZ3G,China
+BZ3H,China
+BZ3I,China
+BZ3J,China
+BZ3K,China
+BZ3L,China
+BZ6Q,China
+BZ6R,China
+BZ6S,China
+BZ6T,China
+BZ6U,China
+BZ6V,China
+BZ6W,China
+BZ6X,China
+BZ7A,China
+BZ7B,China
+BZ7C,China
+BZ7D,China
+BZ7E,China
+BZ7F,China
+BZ7G,China
+BZ7H,China
+BZ7Q,China
+BZ7R,China
+BZ7S,China
+BZ7T,China
+BZ7U,China
+BZ7V,China
+BZ7W,China
+BZ7X,China
+BZ8A,China
+BZ8B,China
+BZ8C,China
+BZ8D,China
+BZ8E,China
+BZ8F,China
+BZ8G,China
+BZ8H,China
+BZ8I,China
+BZ8J,China
+BZ8K,China
+BZ8L,China
+BZ8M,China
+BZ8N,China
+BZ8O,China
+BZ8P,China
+BZ8Q,China
+BZ8R,China
+BZ8S,China
+BZ8T,China
+BZ8U,China
+BZ8V,China
+BZ8W,China
+BZ8X,China
+BZ9A,China
+BZ9B,China
+BZ9C,China
+BZ9D,China
+BZ9E,China
+BZ9F,China
+BZ9S,China
+BZ9T,China
+BZ9U,China
+BZ9V,China
+BZ9W,China
+BZ9X,China
+B2A,China
+B2B,China
+B2C,China
+B2D,China
+B2E,China
+B2F,China
+B2G,China
+B2H,China
+B2I,China
+B2J,China
+B2K,China
+B2L,China
+B2M,China
+B2N,China
+B2O,China
+B2P,China
+B3G,China
+B3H,China
+B3I,China
+B3J,China
+B3K,China
+B3L,China
+B6Q,China
+B6R,China
+B6S,China
+B6T,China
+B6U,China
+B6V,China
+B6W,China
+B6X,China
+B7A,China
+B7B,China
+B7C,China
+B7D,China
+B7E,China
+B7F,China
+B7G,China
+B7H,China
+B7Q,China
+B7R,China
+B7S,China
+B7T,China
+B7U,China
+B7V,China
+B7W,China
+B7X,China
+B8A,China
+B8B,China
+B8C,China
+B8D,China
+B8E,China
+B8F,China
+B8G,China
+B8H,China
+B8I,China
+B8J,China
+B8K,China
+B8L,China
+B8M,China
+B8N,China
+B8O,China
+B8P,China
+B8Q,China
+B8R,China
+B8S,China
+B8T,China
+B8U,China
+B8V,China
+B8W,China
+B8X,China
+B9A,China
+B9B,China
+B9C,China
+B9D,China
+B9E,China
+B9F,China
+B9S,China
+B9T,China
+B9U,China
+B9V,China
+B9W,China
+B9X,China
+BA0,China
+BA9,China
+BD0,China
+BD9,China
+BG0,China
+BG9,China
+BH0,China
+BH9,China
+BI0,China
+BI9,China
+BJ0,China
+BJ9,China
+BL0,China
+BL9,China
+BT0,China
+BT9,China
+BY0,China
+BY9,China
+BZ0,China
+BZ9,China
+B0,China
+B1,China
+B2,China
+B3,China
+B4,China
+B5,China
+B6,China
+B7,China
+B8,China
+B9,China
+BA,China
+BD,China
+BG,China
+BH,China
+BI,China
+BJ,China
+BL,China
+BM,Taiwan
+BN,Taiwan
+BO,Taiwan
+BP,Taiwan
+BQ,Taiwan
+BT,China
+BU,Taiwan
+BV,Taiwan
+BW,Taiwan
+BX,Taiwan
+BY,China
+BZ,China
+CA0X,San Felix & San Ambrosio
+CA0Z,Juan Fernandez Islands
+CB0X,San Felix & San Ambrosio
+CB0Z,Juan Fernandez Islands
+CC0X,San Felix & San Ambrosio
+CC0Z,Juan Fernandez Islands
+CD0X,San Felix & San Ambrosio
+CD0Z,Juan Fernandez Islands
+CE0I,Juan Fernandez Islands
+CE0X,San Felix & San Ambrosio
+CE0Z,Juan Fernandez Islands
+CA0,Easter Island
+CA7,Chile
+CA8,Chile
+CB0,Easter Island
+CB7,Chile
+CB8,Chile
+CC0,Easter Island
+CC7,Chile
+CC8,Chile
+CD0,Easter Island
+CD7,Chile
+CD8,Chile
+CE0,Easter Island
+CE7,Chile
+CE8,Chile
+CE9,South Shetland Islands
+CF2,Canada
+CG2,Canada
+CH1,Canada
+CH2,Canada
+CI0,Canada
+CI1,Canada
+CI2,Canada
+CJ2,Canada
+CK2,Canada
+CP2,Bolivia
+CP3,Bolivia
+CP4,Bolivia
+CP5,Bolivia
+CP6,Bolivia
+CP7,Bolivia
+CQ1,Azores
+CQ2,Madeira Islands
+CQ3,Madeira Islands
+CQ8,Azores
+CQ9,Madeira Islands
+CR1,Azores
+CR2,Azores
+CR3,Madeira Islands
+CR8,Azores
+CR9,Madeira Islands
+CS3,Madeira Islands
+CS4,Azores
+CS8,Azores
+CS9,Madeira Islands
+CT3,Madeira Islands
+CT8,Azores
+CT9,Madeira Islands
+CY0,Sable Island
+CY1,Canada
+CY2,Canada
+CY9,St. Paul Island
+CZ0,Canada
+CZ1,Canada
+CZ2,Canada
+C2,Nauru
+C3,Andorra
+C4,Cyprus
+C5,The Gambia
+C6,Bahamas
+C8,Mozambique
+C9,Mozambique
+CA,Chile
+CB,Chile
+CC,Chile
+CD,Chile
+CE,Chile
+CF,Canada
+CG,Canada
+CJ,Canada
+CK,Canada
+CL,Cuba
+CM,Cuba
+CN,Morocco
+CO,Cuba
+CP,Bolivia
+CQ,Portugal
+CR,Portugal
+CS,Portugal
+CT,Portugal
+CU,Azores
+CV,Uruguay
+CW,Uruguay
+CX,Uruguay
+D2,Angola
+D3,Angola
+D4,Cape Verde
+D5,Liberia
+D6,Comoros
+D7,Republic of Korea
+D8,Republic of Korea
+D9,Republic of Korea
+DA,Fed. Rep. of Germany
+DB,Fed. Rep. of Germany
+DC,Fed. Rep. of Germany
+DD,Fed. Rep. of Germany
+DE,Fed. Rep. of Germany
+DF,Fed. Rep. of Germany
+DG,Fed. Rep. of Germany
+DH,Fed. Rep. of Germany
+DI,Fed. Rep. of Germany
+DJ,Fed. Rep. of Germany
+DK,Fed. Rep. of Germany
+DL,Fed. Rep. of Germany
+DM,Fed. Rep. of Germany
+DN,Fed. Rep. of Germany
+DO,Fed. Rep. of Germany
+DP,Fed. Rep. of Germany
+DQ,Fed. Rep. of Germany
+DR,Fed. Rep. of Germany
+DS,Republic of Korea
+DT,Republic of Korea
+DU,Philippines
+DV,Philippines
+DW,Philippines
+DX,Philippines
+DY,Philippines
+DZ,Philippines
+EX0P,Kyrgyzstan
+EX0Q,Kyrgyzstan
+EX2P,Kyrgyzstan
+EX2Q,Kyrgyzstan
+EX6P,Kyrgyzstan
+EX6Q,Kyrgyzstan
+EX7P,Kyrgyzstan
+EX7Q,Kyrgyzstan
+EX8P,Kyrgyzstan
+EX8Q,Kyrgyzstan
+EA6,Balearic Islands
+EA8,Canary Islands
+EA9,Ceuta & Melilla
+EB6,Balearic Islands
+EB8,Canary Islands
+EB9,Ceuta & Melilla
+EC6,Balearic Islands
+EC8,Canary Islands
+EC9,Ceuta & Melilla
+ED6,Balearic Islands
+ED8,Canary Islands
+ED9,Ceuta & Melilla
+EE6,Balearic Islands
+EE8,Canary Islands
+EE9,Ceuta & Melilla
+EF6,Balearic Islands
+EF8,Canary Islands
+EF9,Ceuta & Melilla
+EG6,Balearic Islands
+EG8,Canary Islands
+EG9,Ceuta & Melilla
+EH6,Balearic Islands
+EH8,Canary Islands
+EH9,Ceuta & Melilla
+E2,Thailand
+E3,Eritrea
+E4,Palestine
+E5,South Cook Islands
+E6,Niue
+E7,Bosnia-Herzegovina
+EA,Spain
+EB,Spain
+EC,Spain
+ED,Spain
+EE,Spain
+EF,Spain
+EG,Spain
+EH,Spain
+EI,Ireland
+EJ,Ireland
+EK,Armenia
+EL,Liberia
+EM,Ukraine
+EN,Ukraine
+EO,Ukraine
+EP,Iran
+EQ,Iran
+ER,Moldova
+ES,Estonia
+ET,Ethiopia
+EU,Belarus
+EV,Belarus
+EW,Belarus
+EX,Kyrgyzstan
+EY,Tajikistan
+EZ,Turkmenistan
+FT0E,Juan de Nova, Europa
+FT0G,Glorioso Islands
+FT0J,Juan de Nova, Europa
+FT0T,Tromelin Island
+FT0W,Crozet Island
+FT0X,Kerguelen Islands
+FT0Y,Antarctica
+FT0Z,Amsterdam & St. Paul Is.
+FT1E,Juan de Nova, Europa
+FT1G,Glorioso Islands
+FT1J,Juan de Nova, Europa
+FT1T,Tromelin Island
+FT1Y,Antarctica
+FT1Z,Amsterdam & St. Paul Is.
+FT2E,Juan de Nova, Europa
+FT2G,Glorioso Islands
+FT2J,Juan de Nova, Europa
+FT2T,Tromelin Island
+FT2X,Kerguelen Islands
+FT2Y,Antarctica
+FT2Z,Amsterdam & St. Paul Is.
+FT3E,Juan de Nova, Europa
+FT3G,Glorioso Islands
+FT3J,Juan de Nova, Europa
+FT3T,Tromelin Island
+FT3Y,Antarctica
+FT3Z,Amsterdam & St. Paul Is.
+FT4E,Juan de Nova, Europa
+FT4G,Glorioso Islands
+FT4J,Juan de Nova, Europa
+FT4T,Tromelin Island
+FT4W,Crozet Island
+FT4X,Kerguelen Islands
+FT4Y,Antarctica
+FT4Z,Amsterdam & St. Paul Is.
+FT5G,Glorioso Islands
+FT5T,Tromelin Island
+FT5W,Crozet Island
+FT5X,Kerguelen Islands
+FT5Y,Antarctica
+FT5Z,Amsterdam & St. Paul Is.
+FT6E,Juan de Nova, Europa
+FT6G,Glorioso Islands
+FT6J,Juan de Nova, Europa
+FT6T,Tromelin Island
+FT6Y,Antarctica
+FT6Z,Amsterdam & St. Paul Is.
+FT7E,Juan de Nova, Europa
+FT7G,Glorioso Islands
+FT7J,Juan de Nova, Europa
+FT7T,Tromelin Island
+FT7Y,Antarctica
+FT7Z,Amsterdam & St. Paul Is.
+FT8E,Juan de Nova, Europa
+FT8G,Glorioso Islands
+FT8J,Juan de Nova, Europa
+FT8T,Tromelin Island
+FT8W,Crozet Island
+FT8X,Kerguelen Islands
+FT8Y,Antarctica
+FT8Z,Amsterdam & St. Paul Is.
+FT9E,Juan de Nova, Europa
+FT9G,Glorioso Islands
+FT9J,Juan de Nova, Europa
+FT9T,Tromelin Island
+FG,Guadeloupe
+FH,Mayotte
+FJ,St. Barthelemy
+FK,New Caledonia
+FM,Martinique
+FO,French Polynesia
+FP,St. Pierre & Miquelon
+FR,Reunion Island
+FS,St. Martin
+FW,Wallis & Futuna Islands
+FY,French Guiana
+F,France
+GA,Scotland
+GC,Wales
+GD,Isle of Man
+GH,Jersey
+GI,Northern Ireland
+GJ,Jersey
+GM,Scotland
+GN,Northern Ireland
+GP,Guernsey
+GS,Scotland
+GT,Isle of Man
+GU,Guernsey
+GW,Wales
+GZ,Shetland Islands
+GZ,Scotland
+G,England
+HJ0M,Malpelo Island
+HK0M,Malpelo Island
+H40,Temotu Province
+HB0,Liechtenstein
+HC8,Galapagos Islands
+HD8,Galapagos Islands
+HE0,Liechtenstein
+HJ0,San Andres & Providencia
+HK0,San Andres & Providencia
+H2,Cyprus
+H3,Panama
+H4,Solomon Islands
+H5,South Africa
+H6,Nicaragua
+H7,Nicaragua
+H8,Panama
+H9,Panama
+HA,Hungary
+HB,Switzerland
+HC,Ecuador
+HD,Ecuador
+HE,Switzerland
+HF,Poland
+HG,Hungary
+HH,Haiti
+HI,Dominican Republic
+HJ,Colombia
+HK,Colombia
+HL,Republic of Korea
+HN,Iraq
+HO,Panama
+HP,Panama
+HQ,Honduras
+HR,Honduras
+HS,Thailand
+HT,Nicaragua
+HU,El Salvador
+HV,Vatican City
+HW,France
+HX,France
+HY,France
+HZ,Saudi Arabia
+IW0U,Sardinia
+IW0V,Sardinia
+IW0W,Sardinia
+IW0X,Sardinia
+IW0Y,Sardinia
+IW0Z,Sardinia
+IB9,Sicily
+ID9,Sicily
+IE9,Sicily
+IF9,Sicily
+IG9,African Italy
+IH9,African Italy
+II9,Sicily
+IJ9,Sicily
+IM0,Sardinia
+IO9,Sicily
+IQ9,Sicily
+IR9,Sicily
+IT9,Sicily
+IU9,Sicily
+IW9,Sicily
+IY9,Sicily
+IS,Sardinia
+I,Italy
+J45,Dodecanese
+J49,Crete
+JD1,Ogasawara
+JT2,Mongolia
+JT3,Mongolia
+JU2,Mongolia
+JU3,Mongolia
+JV2,Mongolia
+JV3,Mongolia
+J2,Djibouti
+J3,Grenada
+J4,Greece
+J5,Guinea-Bissau
+J6,St. Lucia
+J7,Dominica
+J8,St. Vincent
+JA,Japan
+JE,Japan
+JF,Japan
+JG,Japan
+JH,Japan
+JI,Japan
+JJ,Japan
+JK,Japan
+JL,Japan
+JM,Japan
+JN,Japan
+JO,Japan
+JP,Japan
+JQ,Japan
+JR,Japan
+JS,Japan
+JT,Mongolia
+JU,Mongolia
+JV,Mongolia
+JW,Svalbard
+JX,Jan Mayen
+JY,Jordan
+JZ,Indonesia
+KH7K,Kure Island
+KL9K,Republic of Korea
+KG4,Guantanamo Bay
+KH0,Mariana Islands
+KH1,Baker & Howland Islands
+KH2,Guam
+KH3,Johnston Island
+KH4,Midway Island
+KH5,Palmyra & Jarvis Islands
+KH6,Hawaii
+KH7,Hawaii
+KH8,American Samoa
+KH9,Wake Island
+KP1,Navassa Island
+KP2,US Virgin Islands
+KP3,Puerto Rico
+KP4,Puerto Rico
+KP5,Desecheo Island
+KL,Alaska
+K,United States
+L20V,Argentina
+L20W,Argentina
+L20X,Argentina
+L20Y,Argentina
+L21V,Argentina
+L21W,Argentina
+L21X,Argentina
+L21Y,Argentina
+L22V,Argentina
+L22W,Argentina
+L22X,Argentina
+L22Y,Argentina
+L23V,Argentina
+L23W,Argentina
+L23X,Argentina
+L23Y,Argentina
+L24V,Argentina
+L24W,Argentina
+L24X,Argentina
+L24Y,Argentina
+L25V,Argentina
+L25W,Argentina
+L25X,Argentina
+L25Y,Argentina
+L26V,Argentina
+L26W,Argentina
+L26X,Argentina
+L26Y,Argentina
+L27V,Argentina
+L27W,Argentina
+L27X,Argentina
+L27Y,Argentina
+L28V,Argentina
+L28W,Argentina
+L28X,Argentina
+L28Y,Argentina
+L29V,Argentina
+L29W,Argentina
+L29X,Argentina
+L29Y,Argentina
+L30V,Argentina
+L30W,Argentina
+L30X,Argentina
+L30Y,Argentina
+L31V,Argentina
+L31W,Argentina
+L31X,Argentina
+L31Y,Argentina
+L32V,Argentina
+L32W,Argentina
+L32X,Argentina
+L32Y,Argentina
+L33V,Argentina
+L33W,Argentina
+L33X,Argentina
+L33Y,Argentina
+L34V,Argentina
+L34W,Argentina
+L34X,Argentina
+L34Y,Argentina
+L35V,Argentina
+L35W,Argentina
+L35X,Argentina
+L35Y,Argentina
+L36V,Argentina
+L36W,Argentina
+L36X,Argentina
+L36Y,Argentina
+L37V,Argentina
+L37W,Argentina
+L37X,Argentina
+L37Y,Argentina
+L38V,Argentina
+L38W,Argentina
+L38X,Argentina
+L38Y,Argentina
+L39V,Argentina
+L39W,Argentina
+L39X,Argentina
+L39Y,Argentina
+L40V,Argentina
+L40W,Argentina
+L40X,Argentina
+L40Y,Argentina
+L41V,Argentina
+L41W,Argentina
+L41X,Argentina
+L41Y,Argentina
+L42V,Argentina
+L42W,Argentina
+L42X,Argentina
+L42Y,Argentina
+L43V,Argentina
+L43W,Argentina
+L43X,Argentina
+L43Y,Argentina
+L44V,Argentina
+L44W,Argentina
+L44X,Argentina
+L44Y,Argentina
+L45V,Argentina
+L45W,Argentina
+L45X,Argentina
+L45Y,Argentina
+L46V,Argentina
+L46W,Argentina
+L46X,Argentina
+L46Y,Argentina
+L47V,Argentina
+L47W,Argentina
+L47X,Argentina
+L47Y,Argentina
+L48V,Argentina
+L48W,Argentina
+L48X,Argentina
+L48Y,Argentina
+L49V,Argentina
+L49W,Argentina
+L49X,Argentina
+L49Y,Argentina
+L50V,Argentina
+L50W,Argentina
+L50X,Argentina
+L50Y,Argentina
+L51V,Argentina
+L51W,Argentina
+L51X,Argentina
+L51Y,Argentina
+L52V,Argentina
+L52W,Argentina
+L52X,Argentina
+L52Y,Argentina
+L53V,Argentina
+L53W,Argentina
+L53X,Argentina
+L53Y,Argentina
+L54V,Argentina
+L54W,Argentina
+L54X,Argentina
+L54Y,Argentina
+L55V,Argentina
+L55W,Argentina
+L55X,Argentina
+L55Y,Argentina
+L56V,Argentina
+L56W,Argentina
+L56X,Argentina
+L56Y,Argentina
+L57V,Argentina
+L57W,Argentina
+L57X,Argentina
+L57Y,Argentina
+L58V,Argentina
+L58W,Argentina
+L58X,Argentina
+L58Y,Argentina
+L59V,Argentina
+L59W,Argentina
+L59X,Argentina
+L59Y,Argentina
+L60V,Argentina
+L60W,Argentina
+L60X,Argentina
+L60Y,Argentina
+L61V,Argentina
+L61W,Argentina
+L61X,Argentina
+L61Y,Argentina
+L62V,Argentina
+L62W,Argentina
+L62X,Argentina
+L62Y,Argentina
+L63V,Argentina
+L63W,Argentina
+L63X,Argentina
+L63Y,Argentina
+L64V,Argentina
+L64W,Argentina
+L64X,Argentina
+L64Y,Argentina
+L65V,Argentina
+L65W,Argentina
+L65X,Argentina
+L65Y,Argentina
+L66V,Argentina
+L66W,Argentina
+L66X,Argentina
+L66Y,Argentina
+L67V,Argentina
+L67W,Argentina
+L67X,Argentina
+L67Y,Argentina
+L68V,Argentina
+L68W,Argentina
+L68X,Argentina
+L68Y,Argentina
+L69V,Argentina
+L69W,Argentina
+L69X,Argentina
+L69Y,Argentina
+L70V,Argentina
+L70W,Argentina
+L70X,Argentina
+L70Y,Argentina
+L71V,Argentina
+L71W,Argentina
+L71X,Argentina
+L71Y,Argentina
+L72V,Argentina
+L72W,Argentina
+L72X,Argentina
+L72Y,Argentina
+L73V,Argentina
+L73W,Argentina
+L73X,Argentina
+L73Y,Argentina
+L74V,Argentina
+L74W,Argentina
+L74X,Argentina
+L74Y,Argentina
+L75V,Argentina
+L75W,Argentina
+L75X,Argentina
+L75Y,Argentina
+L76V,Argentina
+L76W,Argentina
+L76X,Argentina
+L76Y,Argentina
+L77V,Argentina
+L77W,Argentina
+L77X,Argentina
+L77Y,Argentina
+L78V,Argentina
+L78W,Argentina
+L78X,Argentina
+L78Y,Argentina
+L79V,Argentina
+L79W,Argentina
+L79X,Argentina
+L79Y,Argentina
+L80V,Argentina
+L80W,Argentina
+L80X,Argentina
+L80Y,Argentina
+L81V,Argentina
+L81W,Argentina
+L81X,Argentina
+L81Y,Argentina
+L82V,Argentina
+L82W,Argentina
+L82X,Argentina
+L82Y,Argentina
+L83V,Argentina
+L83W,Argentina
+L83X,Argentina
+L83Y,Argentina
+L84V,Argentina
+L84W,Argentina
+L84X,Argentina
+L84Y,Argentina
+L85V,Argentina
+L85W,Argentina
+L85X,Argentina
+L85Y,Argentina
+L86V,Argentina
+L86W,Argentina
+L86X,Argentina
+L86Y,Argentina
+L87V,Argentina
+L87W,Argentina
+L87X,Argentina
+L87Y,Argentina
+L88V,Argentina
+L88W,Argentina
+L88X,Argentina
+L88Y,Argentina
+L89V,Argentina
+L89W,Argentina
+L89X,Argentina
+L89Y,Argentina
+L90V,Argentina
+L90W,Argentina
+L90X,Argentina
+L90Y,Argentina
+L91V,Argentina
+L91W,Argentina
+L91X,Argentina
+L91Y,Argentina
+L92V,Argentina
+L92W,Argentina
+L92X,Argentina
+L92Y,Argentina
+L93V,Argentina
+L93W,Argentina
+L93X,Argentina
+L93Y,Argentina
+L94V,Argentina
+L94W,Argentina
+L94X,Argentina
+L94Y,Argentina
+L95V,Argentina
+L95W,Argentina
+L95X,Argentina
+L95Y,Argentina
+L96V,Argentina
+L96W,Argentina
+L96X,Argentina
+L96Y,Argentina
+L97V,Argentina
+L97W,Argentina
+L97X,Argentina
+L97Y,Argentina
+L98V,Argentina
+L98W,Argentina
+L98X,Argentina
+L98Y,Argentina
+L99V,Argentina
+L99W,Argentina
+L99X,Argentina
+L99Y,Argentina
+LO0V,Argentina
+LO0W,Argentina
+LO0X,Argentina
+LO0Y,Argentina
+LO1V,Argentina
+LO1W,Argentina
+LO1X,Argentina
+LO1Y,Argentina
+LO2V,Argentina
+LO2W,Argentina
+LO2X,Argentina
+LO2Y,Argentina
+LO3V,Argentina
+LO3W,Argentina
+LO3X,Argentina
+LO3Y,Argentina
+LO4V,Argentina
+LO4W,Argentina
+LO4X,Argentina
+LO4Y,Argentina
+LO5V,Argentina
+LO5W,Argentina
+LO5X,Argentina
+LO5Y,Argentina
+LO6V,Argentina
+LO6W,Argentina
+LO6X,Argentina
+LO6Y,Argentina
+LO7V,Argentina
+LO7W,Argentina
+LO7X,Argentina
+LO7Y,Argentina
+LO8V,Argentina
+LO8W,Argentina
+LO8X,Argentina
+LO8Y,Argentina
+LO9V,Argentina
+LO9W,Argentina
+LO9X,Argentina
+LO9Y,Argentina
+LP0V,Argentina
+LP0W,Argentina
+LP0X,Argentina
+LP0Y,Argentina
+LP1V,Argentina
+LP1W,Argentina
+LP1X,Argentina
+LP1Y,Argentina
+LP2V,Argentina
+LP2W,Argentina
+LP2X,Argentina
+LP2Y,Argentina
+LP3V,Argentina
+LP3W,Argentina
+LP3X,Argentina
+LP3Y,Argentina
+LP4V,Argentina
+LP4W,Argentina
+LP4X,Argentina
+LP4Y,Argentina
+LP5V,Argentina
+LP5W,Argentina
+LP5X,Argentina
+LP5Y,Argentina
+LP6V,Argentina
+LP6W,Argentina
+LP6X,Argentina
+LP6Y,Argentina
+LP7V,Argentina
+LP7W,Argentina
+LP7X,Argentina
+LP7Y,Argentina
+LP8V,Argentina
+LP8W,Argentina
+LP8X,Argentina
+LP8Y,Argentina
+LP9V,Argentina
+LP9W,Argentina
+LP9X,Argentina
+LP9Y,Argentina
+LQ0V,Argentina
+LQ0W,Argentina
+LQ0X,Argentina
+LQ0Y,Argentina
+LQ1V,Argentina
+LQ1W,Argentina
+LQ1X,Argentina
+LQ1Y,Argentina
+LQ2V,Argentina
+LQ2W,Argentina
+LQ2X,Argentina
+LQ2Y,Argentina
+LQ3V,Argentina
+LQ3W,Argentina
+LQ3X,Argentina
+LQ3Y,Argentina
+LQ4V,Argentina
+LQ4W,Argentina
+LQ4X,Argentina
+LQ4Y,Argentina
+LQ5V,Argentina
+LQ5W,Argentina
+LQ5X,Argentina
+LQ5Y,Argentina
+LQ6V,Argentina
+LQ6W,Argentina
+LQ6X,Argentina
+LQ6Y,Argentina
+LQ7V,Argentina
+LQ7W,Argentina
+LQ7X,Argentina
+LQ7Y,Argentina
+LQ8V,Argentina
+LQ8W,Argentina
+LQ8X,Argentina
+LQ8Y,Argentina
+LQ9V,Argentina
+LQ9W,Argentina
+LQ9X,Argentina
+LQ9Y,Argentina
+LR0V,Argentina
+LR0W,Argentina
+LR0X,Argentina
+LR0Y,Argentina
+LR1V,Argentina
+LR1W,Argentina
+LR1X,Argentina
+LR1Y,Argentina
+LR2V,Argentina
+LR2W,Argentina
+LR2X,Argentina
+LR2Y,Argentina
+LR3V,Argentina
+LR3W,Argentina
+LR3X,Argentina
+LR3Y,Argentina
+LR4V,Argentina
+LR4W,Argentina
+LR4X,Argentina
+LR4Y,Argentina
+LR5V,Argentina
+LR5W,Argentina
+LR5X,Argentina
+LR5Y,Argentina
+LR6V,Argentina
+LR6W,Argentina
+LR6X,Argentina
+LR6Y,Argentina
+LR7V,Argentina
+LR7W,Argentina
+LR7X,Argentina
+LR7Y,Argentina
+LR8V,Argentina
+LR8W,Argentina
+LR8X,Argentina
+LR8Y,Argentina
+LR9V,Argentina
+LR9W,Argentina
+LR9X,Argentina
+LR9Y,Argentina
+LS0V,Argentina
+LS0W,Argentina
+LS0X,Argentina
+LS0Y,Argentina
+LS1V,Argentina
+LS1W,Argentina
+LS1X,Argentina
+LS1Y,Argentina
+LS2V,Argentina
+LS2W,Argentina
+LS2X,Argentina
+LS2Y,Argentina
+LS3V,Argentina
+LS3W,Argentina
+LS3X,Argentina
+LS3Y,Argentina
+LS4V,Argentina
+LS4W,Argentina
+LS4X,Argentina
+LS4Y,Argentina
+LS5V,Argentina
+LS5W,Argentina
+LS5X,Argentina
+LS5Y,Argentina
+LS6V,Argentina
+LS6W,Argentina
+LS6X,Argentina
+LS6Y,Argentina
+LS7V,Argentina
+LS7W,Argentina
+LS7X,Argentina
+LS7Y,Argentina
+LS8V,Argentina
+LS8W,Argentina
+LS8X,Argentina
+LS8Y,Argentina
+LS9V,Argentina
+LS9W,Argentina
+LS9X,Argentina
+LS9Y,Argentina
+LT0V,Argentina
+LT0W,Argentina
+LT0X,Argentina
+LT0Y,Argentina
+LT1V,Argentina
+LT1W,Argentina
+LT1X,Argentina
+LT1Y,Argentina
+LT2V,Argentina
+LT2W,Argentina
+LT2X,Argentina
+LT2Y,Argentina
+LT3V,Argentina
+LT3W,Argentina
+LT3X,Argentina
+LT3Y,Argentina
+LT4V,Argentina
+LT4W,Argentina
+LT4X,Argentina
+LT4Y,Argentina
+LT5V,Argentina
+LT5W,Argentina
+LT5X,Argentina
+LT5Y,Argentina
+LT6V,Argentina
+LT6W,Argentina
+LT6X,Argentina
+LT6Y,Argentina
+LT7V,Argentina
+LT7W,Argentina
+LT7X,Argentina
+LT7Y,Argentina
+LT8V,Argentina
+LT8W,Argentina
+LT8X,Argentina
+LT8Y,Argentina
+LT9V,Argentina
+LT9W,Argentina
+LT9X,Argentina
+LT9Y,Argentina
+LU0V,Argentina
+LU0W,Argentina
+LU0X,Argentina
+LU0Y,Argentina
+LU1V,Argentina
+LU1W,Argentina
+LU1X,Argentina
+LU1Y,Argentina
+LU1Z,Antarctica
+LU2V,Argentina
+LU2W,Argentina
+LU2X,Argentina
+LU2Y,Argentina
+LU2Z,Antarctica
+LU3V,Argentina
+LU3W,Argentina
+LU3X,Argentina
+LU3Y,Argentina
+LU3Z,Antarctica
+LU4V,Argentina
+LU4W,Argentina
+LU4X,Argentina
+LU4Y,Argentina
+LU4Z,Antarctica
+LU5V,Argentina
+LU5W,Argentina
+LU5X,Argentina
+LU5Y,Argentina
+LU5Z,Antarctica
+LU6V,Argentina
+LU6W,Argentina
+LU6X,Argentina
+LU6Y,Argentina
+LU6Z,Antarctica
+LU7V,Argentina
+LU7W,Argentina
+LU7X,Argentina
+LU7Y,Argentina
+LU7Z,Antarctica
+LU8V,Argentina
+LU8W,Argentina
+LU8X,Argentina
+LU8Y,Argentina
+LU8Z,Antarctica
+LU9V,Argentina
+LU9W,Argentina
+LU9X,Argentina
+LU9Y,Argentina
+LU9Z,Antarctica
+LV0V,Argentina
+LV0W,Argentina
+LV0X,Argentina
+LV0Y,Argentina
+LV1V,Argentina
+LV1W,Argentina
+LV1X,Argentina
+LV1Y,Argentina
+LV2V,Argentina
+LV2W,Argentina
+LV2X,Argentina
+LV2Y,Argentina
+LV3V,Argentina
+LV3W,Argentina
+LV3X,Argentina
+LV3Y,Argentina
+LV4V,Argentina
+LV4W,Argentina
+LV4X,Argentina
+LV4Y,Argentina
+LV5V,Argentina
+LV5W,Argentina
+LV5X,Argentina
+LV5Y,Argentina
+LV6V,Argentina
+LV6W,Argentina
+LV6X,Argentina
+LV6Y,Argentina
+LV7V,Argentina
+LV7W,Argentina
+LV7X,Argentina
+LV7Y,Argentina
+LV8V,Argentina
+LV8W,Argentina
+LV8X,Argentina
+LV8Y,Argentina
+LV9V,Argentina
+LV9W,Argentina
+LV9X,Argentina
+LV9Y,Argentina
+LW0V,Argentina
+LW0W,Argentina
+LW0X,Argentina
+LW0Y,Argentina
+LW1V,Argentina
+LW1W,Argentina
+LW1X,Argentina
+LW1Y,Argentina
+LW2V,Argentina
+LW2W,Argentina
+LW2X,Argentina
+LW2Y,Argentina
+LW3V,Argentina
+LW3W,Argentina
+LW3X,Argentina
+LW3Y,Argentina
+LW4V,Argentina
+LW4W,Argentina
+LW4X,Argentina
+LW4Y,Argentina
+LW5V,Argentina
+LW5W,Argentina
+LW5X,Argentina
+LW5Y,Argentina
+LW6V,Argentina
+LW6W,Argentina
+LW6X,Argentina
+LW6Y,Argentina
+LW7V,Argentina
+LW7W,Argentina
+LW7X,Argentina
+LW7Y,Argentina
+LW8V,Argentina
+LW8W,Argentina
+LW8X,Argentina
+LW8Y,Argentina
+LW9V,Argentina
+LW9W,Argentina
+LW9X,Argentina
+LW9Y,Argentina
+L1,Argentina
+L2,Argentina
+L3,Argentina
+L4,Argentina
+L5,Argentina
+L6,Argentina
+L7,Argentina
+L8,Argentina
+L9,Argentina
+LA,Norway
+LB,Norway
+LC,Norway
+LD,Norway
+LE,Norway
+LF,Norway
+LG,Norway
+LH,Norway
+LI,Norway
+LJ,Norway
+LK,Norway
+LL,Norway
+LM,Norway
+LN,Norway
+LO,Argentina
+LP,Argentina
+LQ,Argentina
+LR,Argentina
+LS,Argentina
+LT,Argentina
+LU,Argentina
+LV,Argentina
+LW,Argentina
+LX,Luxembourg
+LY,Lithuania
+LZ,Bulgaria
+MA,Scotland
+MC,Wales
+MD,Isle of Man
+MH,Jersey
+MI,Northern Ireland
+MJ,Jersey
+MM,Scotland
+MN,Northern Ireland
+MP,Guernsey
+MS,Scotland
+MT,Isle of Man
+MU,Guernsey
+MW,Wales
+MZ,Shetland Islands
+MZ,Scotland
+M,England
+NH7K,Kure Island
+NH0,Mariana Islands
+NH1,Baker & Howland Islands
+NH2,Guam
+NH3,Johnston Island
+NH4,Midway Island
+NH5,Palmyra & Jarvis Islands
+NH6,Hawaii
+NH7,Hawaii
+NH8,American Samoa
+NH9,Wake Island
+NLD,Kuwait
+NP1,Navassa Island
+NP2,US Virgin Islands
+NP3,Puerto Rico
+NP4,Puerto Rico
+NP5,Desecheo Island
+NL,Alaska
+N,United States
+OF0,Aland Islands
+OG0,Aland Islands
+OH0,Aland Islands
+OI0,Aland Islands
+OJ0,Market Reef
+OA,Peru
+OB,Peru
+OC,Peru
+OD,Lebanon
+OE,Austria
+OF,Finland
+OG,Finland
+OH,Finland
+OI,Finland
+OJ,Finland
+OK,Czech Republic
+OL,Czech Republic
+OM,Slovak Republic
+ON,Belgium
+OO,Belgium
+OP,Belgium
+OQ,Belgium
+OR,Belgium
+OS,Belgium
+OT,Belgium
+OU,Denmark
+OV,Denmark
+OW,Faroe Islands
+OX,Greenland
+OY,Faroe Islands
+OZ,Denmark
+PP0ZF,Fernando de Noronha
+PP0ZR,Fernando de Noronha
+PP0ZS,St. Peter & St. Paul
+PP0ZT,Trindade & Martim Vaz
+PQ0ZF,Fernando de Noronha
+PQ0ZR,Fernando de Noronha
+PQ0ZS,St. Peter & St. Paul
+PQ0ZT,Trindade & Martim Vaz
+PR0ZF,Fernando de Noronha
+PR0ZR,Fernando de Noronha
+PR0ZS,St. Peter & St. Paul
+PR0ZT,Trindade & Martim Vaz
+PS0ZF,Fernando de Noronha
+PS0ZR,Fernando de Noronha
+PS0ZS,St. Peter & St. Paul
+PS0ZT,Trindade & Martim Vaz
+PT0ZF,Fernando de Noronha
+PT0ZR,Fernando de Noronha
+PT0ZS,St. Peter & St. Paul
+PT0ZT,Trindade & Martim Vaz
+PU0ZF,Fernando de Noronha
+PU0ZR,Fernando de Noronha
+PU0ZS,St. Peter & St. Paul
+PU0ZT,Trindade & Martim Vaz
+PV0ZF,Fernando de Noronha
+PV0ZR,Fernando de Noronha
+PV0ZS,St. Peter & St. Paul
+PV0ZT,Trindade & Martim Vaz
+PW0ZF,Fernando de Noronha
+PW0ZR,Fernando de Noronha
+PW0ZS,St. Peter & St. Paul
+PW0ZT,Trindade & Martim Vaz
+PX0ZF,Fernando de Noronha
+PX0ZR,Fernando de Noronha
+PX0ZS,St. Peter & St. Paul
+PX0ZT,Trindade & Martim Vaz
+PY0ZS,St. Peter & St. Paul
+PY0ZT,Trindade & Martim Vaz
+PP0F,Fernando de Noronha
+PP0R,Fernando de Noronha
+PP0S,St. Peter & St. Paul
+PP0T,Trindade & Martim Vaz
+PQ0F,Fernando de Noronha
+PQ0R,Fernando de Noronha
+PQ0S,St. Peter & St. Paul
+PQ0T,Trindade & Martim Vaz
+PR0F,Fernando de Noronha
+PR0R,Fernando de Noronha
+PR0S,St. Peter & St. Paul
+PR0T,Trindade & Martim Vaz
+PS0F,Fernando de Noronha
+PS0R,Fernando de Noronha
+PS0S,St. Peter & St. Paul
+PS0T,Trindade & Martim Vaz
+PT0F,Fernando de Noronha
+PT0R,Fernando de Noronha
+PT0S,St. Peter & St. Paul
+PT0T,Trindade & Martim Vaz
+PU0F,Fernando de Noronha
+PU0R,Fernando de Noronha
+PU0S,St. Peter & St. Paul
+PU0T,Trindade & Martim Vaz
+PV0F,Fernando de Noronha
+PV0R,Fernando de Noronha
+PV0S,St. Peter & St. Paul
+PV0T,Trindade & Martim Vaz
+PW0F,Fernando de Noronha
+PW0R,Fernando de Noronha
+PW0S,St. Peter & St. Paul
+PW0T,Trindade & Martim Vaz
+PX0F,Fernando de Noronha
+PX0R,Fernando de Noronha
+PX0S,St. Peter & St. Paul
+PX0T,Trindade & Martim Vaz
+PY0F,Fernando de Noronha
+PY0R,Fernando de Noronha
+PY0S,St. Peter & St. Paul
+PY0T,Trindade & Martim Vaz
+PY0Z,Fernando de Noronha
+PJ2,Curacao
+PJ4,Bonaire
+PJ5,Saba & St. Eustatius
+PJ6,Saba & St. Eustatius
+PJ7,Sint Maarten
+PP6,Brazil
+PP7,Brazil
+PP8,Brazil
+PQ2,Brazil
+PQ8,Brazil
+PR7,Brazil
+PR8,Brazil
+PS7,Brazil
+PS8,Brazil
+PT2,Brazil
+PT7,Brazil
+PT8,Brazil
+PV8,Brazil
+PW8,Brazil
+PY6,Brazil
+PY7,Brazil
+PY8,Brazil
+PY9,Brazil
+P2,Papua New Guinea
+P3,Cyprus
+P4,Aruba
+P5,DPR of Korea
+P6,DPR of Korea
+P7,DPR of Korea
+P8,DPR of Korea
+P9,DPR of Korea
+PA,Netherlands
+PB,Netherlands
+PC,Netherlands
+PD,Netherlands
+PE,Netherlands
+PF,Netherlands
+PG,Netherlands
+PH,Netherlands
+PI,Netherlands
+PK,Indonesia
+PL,Indonesia
+PM,Indonesia
+PN,Indonesia
+PO,Indonesia
+PP,Brazil
+PQ,Brazil
+PR,Brazil
+PS,Brazil
+PT,Brazil
+PU,Brazil
+PV,Brazil
+PW,Brazil
+PX,Brazil
+PY,Brazil
+PZ,Suriname
+RI1AN,Antarctica
+RI1FJ,Franz Josef Land
+R110,Kaliningrad
+RA0T,Asiatic Russia
+RA1N,European Russia
+RA1O,European Russia
+RA1P,European Russia
+RA1Z,European Russia
+RA4H,European Russia
+RA4I,European Russia
+RA4W,European Russia
+RA8F,European Russia
+RA8G,European Russia
+RA8H,Asiatic Russia
+RA8I,Asiatic Russia
+RA8O,Asiatic Russia
+RA8P,Asiatic Russia
+RA8S,Asiatic Russia
+RA8T,Asiatic Russia
+RA8U,Asiatic Russia
+RA8V,Asiatic Russia
+RA8W,Asiatic Russia
+RA8X,European Russia
+RA8Y,Asiatic Russia
+RA8Z,Asiatic Russia
+RA9F,European Russia
+RA9G,European Russia
+RA9I,Asiatic Russia
+RA9M,Asiatic Russia
+RA9P,Asiatic Russia
+RA9S,Asiatic Russia
+RA9T,Asiatic Russia
+RA9V,Asiatic Russia
+RA9W,Asiatic Russia
+RA9X,European Russia
+RC0T,Asiatic Russia
+RC1N,European Russia
+RC1O,European Russia
+RC1P,European Russia
+RC1Z,European Russia
+RC2F,Kaliningrad
+RC2K,Kaliningrad
+RC4H,European Russia
+RC4I,European Russia
+RC4W,European Russia
+RC8F,European Russia
+RC8G,European Russia
+RC8H,Asiatic Russia
+RC8I,Asiatic Russia
+RC8O,Asiatic Russia
+RC8P,Asiatic Russia
+RC8S,Asiatic Russia
+RC8T,Asiatic Russia
+RC8U,Asiatic Russia
+RC8V,Asiatic Russia
+RC8W,Asiatic Russia
+RC8X,European Russia
+RC8Y,Asiatic Russia
+RC8Z,Asiatic Russia
+RC9F,European Russia
+RC9G,European Russia
+RC9I,Asiatic Russia
+RC9M,Asiatic Russia
+RC9P,Asiatic Russia
+RC9S,Asiatic Russia
+RC9T,Asiatic Russia
+RC9V,Asiatic Russia
+RC9W,Asiatic Russia
+RC9X,European Russia
+RD0T,Asiatic Russia
+RD1N,European Russia
+RD1O,European Russia
+RD1P,European Russia
+RD1Z,European Russia
+RD2F,Kaliningrad
+RD2K,Kaliningrad
+RD4H,European Russia
+RD4I,European Russia
+RD4W,European Russia
+RD8F,European Russia
+RD8G,European Russia
+RD8H,Asiatic Russia
+RD8I,Asiatic Russia
+RD8O,Asiatic Russia
+RD8P,Asiatic Russia
+RD8S,Asiatic Russia
+RD8T,Asiatic Russia
+RD8U,Asiatic Russia
+RD8V,Asiatic Russia
+RD8W,Asiatic Russia
+RD8X,European Russia
+RD8Y,Asiatic Russia
+RD8Z,Asiatic Russia
+RD9F,European Russia
+RD9G,European Russia
+RD9I,Asiatic Russia
+RD9M,Asiatic Russia
+RD9P,Asiatic Russia
+RD9S,Asiatic Russia
+RD9T,Asiatic Russia
+RD9V,Asiatic Russia
+RD9W,Asiatic Russia
+RD9X,European Russia
+RE0T,Asiatic Russia
+RE1N,European Russia
+RE1O,European Russia
+RE1P,European Russia
+RE1Z,European Russia
+RE2F,Kaliningrad
+RE2K,Kaliningrad
+RE4H,European Russia
+RE4I,European Russia
+RE4W,European Russia
+RE8F,European Russia
+RE8G,European Russia
+RE8H,Asiatic Russia
+RE8I,Asiatic Russia
+RE8O,Asiatic Russia
+RE8P,Asiatic Russia
+RE8S,Asiatic Russia
+RE8T,Asiatic Russia
+RE8U,Asiatic Russia
+RE8V,Asiatic Russia
+RE8W,Asiatic Russia
+RE8X,European Russia
+RE8Y,Asiatic Russia
+RE8Z,Asiatic Russia
+RE9F,European Russia
+RE9G,European Russia
+RE9I,Asiatic Russia
+RE9M,Asiatic Russia
+RE9P,Asiatic Russia
+RE9S,Asiatic Russia
+RE9T,Asiatic Russia
+RE9V,Asiatic Russia
+RE9W,Asiatic Russia
+RE9X,European Russia
+RF0T,Asiatic Russia
+RF1N,European Russia
+RF1O,European Russia
+RF1P,European Russia
+RF1Z,European Russia
+RF2F,Kaliningrad
+RF2K,Kaliningrad
+RF4H,European Russia
+RF4I,European Russia
+RF4W,European Russia
+RF8F,European Russia
+RF8G,European Russia
+RF8H,Asiatic Russia
+RF8I,Asiatic Russia
+RF8O,Asiatic Russia
+RF8P,Asiatic Russia
+RF8S,Asiatic Russia
+RF8T,Asiatic Russia
+RF8U,Asiatic Russia
+RF8V,Asiatic Russia
+RF8W,Asiatic Russia
+RF8X,European Russia
+RF8Y,Asiatic Russia
+RF8Z,Asiatic Russia
+RF9F,European Russia
+RF9G,European Russia
+RF9I,Asiatic Russia
+RF9M,Asiatic Russia
+RF9P,Asiatic Russia
+RF9S,Asiatic Russia
+RF9T,Asiatic Russia
+RF9V,Asiatic Russia
+RF9W,Asiatic Russia
+RF9X,European Russia
+RG0T,Asiatic Russia
+RG1N,European Russia
+RG1O,European Russia
+RG1P,European Russia
+RG1Z,European Russia
+RG2F,Kaliningrad
+RG2K,Kaliningrad
+RG4H,European Russia
+RG4I,European Russia
+RG4W,European Russia
+RG8F,European Russia
+RG8G,European Russia
+RG8H,Asiatic Russia
+RG8I,Asiatic Russia
+RG8O,Asiatic Russia
+RG8P,Asiatic Russia
+RG8S,Asiatic Russia
+RG8T,Asiatic Russia
+RG8U,Asiatic Russia
+RG8V,Asiatic Russia
+RG8W,Asiatic Russia
+RG8X,European Russia
+RG8Y,Asiatic Russia
+RG8Z,Asiatic Russia
+RG9F,European Russia
+RG9G,European Russia
+RG9I,Asiatic Russia
+RG9M,Asiatic Russia
+RG9P,Asiatic Russia
+RG9S,Asiatic Russia
+RG9T,Asiatic Russia
+RG9V,Asiatic Russia
+RG9W,Asiatic Russia
+RG9X,European Russia
+RI0T,Asiatic Russia
+RI1N,European Russia
+RI1O,European Russia
+RI1P,European Russia
+RI1Z,European Russia
+RI2F,Kaliningrad
+RI2K,Kaliningrad
+RI4H,European Russia
+RI4I,European Russia
+RI4W,European Russia
+RI8F,European Russia
+RI8G,European Russia
+RI8H,Asiatic Russia
+RI8I,Asiatic Russia
+RI8O,Asiatic Russia
+RI8P,Asiatic Russia
+RI8S,Asiatic Russia
+RI8T,Asiatic Russia
+RI8U,Asiatic Russia
+RI8V,Asiatic Russia
+RI8W,Asiatic Russia
+RI8X,European Russia
+RI8Y,Asiatic Russia
+RI8Z,Asiatic Russia
+RI9F,European Russia
+RI9G,European Russia
+RI9I,Asiatic Russia
+RI9M,Asiatic Russia
+RI9P,Asiatic Russia
+RI9S,Asiatic Russia
+RI9T,Asiatic Russia
+RI9V,Asiatic Russia
+RI9W,Asiatic Russia
+RI9X,European Russia
+RJ0T,Asiatic Russia
+RJ1N,European Russia
+RJ1O,European Russia
+RJ1P,European Russia
+RJ1Z,European Russia
+RJ2F,Kaliningrad
+RJ2K,Kaliningrad
+RJ4H,European Russia
+RJ4I,European Russia
+RJ4W,European Russia
+RJ8F,European Russia
+RJ8G,European Russia
+RJ8H,Asiatic Russia
+RJ8I,Asiatic Russia
+RJ8O,Asiatic Russia
+RJ8P,Asiatic Russia
+RJ8S,Asiatic Russia
+RJ8T,Asiatic Russia
+RJ8U,Asiatic Russia
+RJ8V,Asiatic Russia
+RJ8W,Asiatic Russia
+RJ8X,European Russia
+RJ8Y,Asiatic Russia
+RJ8Z,Asiatic Russia
+RJ9F,European Russia
+RJ9G,European Russia
+RJ9I,Asiatic Russia
+RJ9M,Asiatic Russia
+RJ9P,Asiatic Russia
+RJ9S,Asiatic Russia
+RJ9T,Asiatic Russia
+RJ9V,Asiatic Russia
+RJ9W,Asiatic Russia
+RJ9X,European Russia
+RK0T,Asiatic Russia
+RK1N,European Russia
+RK1O,European Russia
+RK1P,European Russia
+RK1Z,European Russia
+RK2F,Kaliningrad
+RK2K,Kaliningrad
+RK4H,European Russia
+RK4I,European Russia
+RK4W,European Russia
+RK8F,European Russia
+RK8G,European Russia
+RK8H,Asiatic Russia
+RK8I,Asiatic Russia
+RK8O,Asiatic Russia
+RK8P,Asiatic Russia
+RK8S,Asiatic Russia
+RK8T,Asiatic Russia
+RK8U,Asiatic Russia
+RK8V,Asiatic Russia
+RK8W,Asiatic Russia
+RK8X,European Russia
+RK8Y,Asiatic Russia
+RK8Z,Asiatic Russia
+RK9F,European Russia
+RK9G,European Russia
+RK9I,Asiatic Russia
+RK9M,Asiatic Russia
+RK9P,Asiatic Russia
+RK9S,Asiatic Russia
+RK9T,Asiatic Russia
+RK9V,Asiatic Russia
+RK9W,Asiatic Russia
+RK9X,European Russia
+RL0T,Asiatic Russia
+RL1N,European Russia
+RL1O,European Russia
+RL1P,European Russia
+RL1Z,European Russia
+RL2F,Kaliningrad
+RL2K,Kaliningrad
+RL4H,European Russia
+RL4I,European Russia
+RL4W,European Russia
+RL8F,European Russia
+RL8G,European Russia
+RL8H,Asiatic Russia
+RL8I,Asiatic Russia
+RL8O,Asiatic Russia
+RL8P,Asiatic Russia
+RL8S,Asiatic Russia
+RL8T,Asiatic Russia
+RL8U,Asiatic Russia
+RL8V,Asiatic Russia
+RL8W,Asiatic Russia
+RL8X,European Russia
+RL8Y,Asiatic Russia
+RL8Z,Asiatic Russia
+RL9F,European Russia
+RL9G,European Russia
+RL9I,Asiatic Russia
+RL9M,Asiatic Russia
+RL9P,Asiatic Russia
+RL9S,Asiatic Russia
+RL9T,Asiatic Russia
+RL9V,Asiatic Russia
+RL9W,Asiatic Russia
+RL9X,European Russia
+RM0T,Asiatic Russia
+RM1N,European Russia
+RM1O,European Russia
+RM1P,European Russia
+RM1Z,European Russia
+RM2F,Kaliningrad
+RM2K,Kaliningrad
+RM4H,European Russia
+RM4I,European Russia
+RM4W,European Russia
+RM8F,European Russia
+RM8G,European Russia
+RM8H,Asiatic Russia
+RM8I,Asiatic Russia
+RM8O,Asiatic Russia
+RM8P,Asiatic Russia
+RM8S,Asiatic Russia
+RM8T,Asiatic Russia
+RM8U,Asiatic Russia
+RM8V,Asiatic Russia
+RM8W,Asiatic Russia
+RM8X,European Russia
+RM8Y,Asiatic Russia
+RM8Z,Asiatic Russia
+RM9F,European Russia
+RM9G,European Russia
+RM9I,Asiatic Russia
+RM9M,Asiatic Russia
+RM9P,Asiatic Russia
+RM9S,Asiatic Russia
+RM9T,Asiatic Russia
+RM9V,Asiatic Russia
+RM9W,Asiatic Russia
+RM9X,European Russia
+RN0T,Asiatic Russia
+RN1N,European Russia
+RN1O,European Russia
+RN1P,European Russia
+RN1Z,European Russia
+RN2F,Kaliningrad
+RN2K,Kaliningrad
+RN4H,European Russia
+RN4I,European Russia
+RN4W,European Russia
+RN8F,European Russia
+RN8G,European Russia
+RN8H,Asiatic Russia
+RN8I,Asiatic Russia
+RN8O,Asiatic Russia
+RN8P,Asiatic Russia
+RN8S,Asiatic Russia
+RN8T,Asiatic Russia
+RN8U,Asiatic Russia
+RN8V,Asiatic Russia
+RN8W,Asiatic Russia
+RN8X,European Russia
+RN8Y,Asiatic Russia
+RN8Z,Asiatic Russia
+RN9F,European Russia
+RN9G,European Russia
+RN9I,Asiatic Russia
+RN9M,Asiatic Russia
+RN9P,Asiatic Russia
+RN9S,Asiatic Russia
+RN9T,Asiatic Russia
+RN9V,Asiatic Russia
+RN9W,Asiatic Russia
+RN9X,European Russia
+RO0T,Asiatic Russia
+RO1N,European Russia
+RO1O,European Russia
+RO1P,European Russia
+RO1Z,European Russia
+RO2F,Kaliningrad
+RO2K,Kaliningrad
+RO4H,European Russia
+RO4I,European Russia
+RO4W,European Russia
+RO8F,European Russia
+RO8G,European Russia
+RO8H,Asiatic Russia
+RO8I,Asiatic Russia
+RO8O,Asiatic Russia
+RO8P,Asiatic Russia
+RO8S,Asiatic Russia
+RO8T,Asiatic Russia
+RO8U,Asiatic Russia
+RO8V,Asiatic Russia
+RO8W,Asiatic Russia
+RO8X,European Russia
+RO8Y,Asiatic Russia
+RO8Z,Asiatic Russia
+RO9F,European Russia
+RO9G,European Russia
+RO9I,Asiatic Russia
+RO9M,Asiatic Russia
+RO9P,Asiatic Russia
+RO9S,Asiatic Russia
+RO9T,Asiatic Russia
+RO9V,Asiatic Russia
+RO9W,Asiatic Russia
+RO9X,European Russia
+RQ0T,Asiatic Russia
+RQ1N,European Russia
+RQ1O,European Russia
+RQ1P,European Russia
+RQ1Z,European Russia
+RQ2F,Kaliningrad
+RQ2K,Kaliningrad
+RQ4H,European Russia
+RQ4I,European Russia
+RQ4W,European Russia
+RQ8F,European Russia
+RQ8G,European Russia
+RQ8H,Asiatic Russia
+RQ8I,Asiatic Russia
+RQ8O,Asiatic Russia
+RQ8P,Asiatic Russia
+RQ8S,Asiatic Russia
+RQ8T,Asiatic Russia
+RQ8U,Asiatic Russia
+RQ8V,Asiatic Russia
+RQ8W,Asiatic Russia
+RQ8X,European Russia
+RQ8Y,Asiatic Russia
+RQ8Z,Asiatic Russia
+RQ9F,European Russia
+RQ9G,European Russia
+RQ9I,Asiatic Russia
+RQ9M,Asiatic Russia
+RQ9P,Asiatic Russia
+RQ9S,Asiatic Russia
+RQ9T,Asiatic Russia
+RQ9V,Asiatic Russia
+RQ9W,Asiatic Russia
+RQ9X,European Russia
+RT0T,Asiatic Russia
+RT1N,European Russia
+RT1O,European Russia
+RT1P,European Russia
+RT1Z,European Russia
+RT2F,Kaliningrad
+RT2K,Kaliningrad
+RT4H,European Russia
+RT4I,European Russia
+RT4W,European Russia
+RT8F,European Russia
+RT8G,European Russia
+RT8H,Asiatic Russia
+RT8I,Asiatic Russia
+RT8O,Asiatic Russia
+RT8P,Asiatic Russia
+RT8S,Asiatic Russia
+RT8T,Asiatic Russia
+RT8U,Asiatic Russia
+RT8V,Asiatic Russia
+RT8W,Asiatic Russia
+RT8X,European Russia
+RT8Y,Asiatic Russia
+RT8Z,Asiatic Russia
+RT9F,European Russia
+RT9G,European Russia
+RT9I,Asiatic Russia
+RT9M,Asiatic Russia
+RT9P,Asiatic Russia
+RT9S,Asiatic Russia
+RT9T,Asiatic Russia
+RT9V,Asiatic Russia
+RT9W,Asiatic Russia
+RT9X,European Russia
+RU0T,Asiatic Russia
+RU1N,European Russia
+RU1O,European Russia
+RU1P,European Russia
+RU1Z,European Russia
+RU2F,Kaliningrad
+RU2K,Kaliningrad
+RU4H,European Russia
+RU4I,European Russia
+RU4W,European Russia
+RU8F,European Russia
+RU8G,European Russia
+RU8H,Asiatic Russia
+RU8I,Asiatic Russia
+RU8O,Asiatic Russia
+RU8P,Asiatic Russia
+RU8S,Asiatic Russia
+RU8T,Asiatic Russia
+RU8U,Asiatic Russia
+RU8V,Asiatic Russia
+RU8W,Asiatic Russia
+RU8X,European Russia
+RU8Y,Asiatic Russia
+RU8Z,Asiatic Russia
+RU9F,European Russia
+RU9G,European Russia
+RU9I,Asiatic Russia
+RU9M,Asiatic Russia
+RU9P,Asiatic Russia
+RU9S,Asiatic Russia
+RU9T,Asiatic Russia
+RU9V,Asiatic Russia
+RU9W,Asiatic Russia
+RU9X,European Russia
+RV0T,Asiatic Russia
+RV1N,European Russia
+RV1O,European Russia
+RV1P,European Russia
+RV1Z,European Russia
+RV2F,Kaliningrad
+RV2K,Kaliningrad
+RV4H,European Russia
+RV4I,European Russia
+RV4W,European Russia
+RV8F,European Russia
+RV8G,European Russia
+RV8H,Asiatic Russia
+RV8I,Asiatic Russia
+RV8O,Asiatic Russia
+RV8P,Asiatic Russia
+RV8S,Asiatic Russia
+RV8T,Asiatic Russia
+RV8U,Asiatic Russia
+RV8V,Asiatic Russia
+RV8W,Asiatic Russia
+RV8X,European Russia
+RV8Y,Asiatic Russia
+RV8Z,Asiatic Russia
+RV9F,European Russia
+RV9G,European Russia
+RV9I,Asiatic Russia
+RV9M,Asiatic Russia
+RV9P,Asiatic Russia
+RV9S,Asiatic Russia
+RV9T,Asiatic Russia
+RV9V,Asiatic Russia
+RV9W,Asiatic Russia
+RV9X,European Russia
+RW0T,Asiatic Russia
+RW1N,European Russia
+RW1O,European Russia
+RW1P,European Russia
+RW1Z,European Russia
+RW2F,Kaliningrad
+RW2K,Kaliningrad
+RW4H,European Russia
+RW4I,European Russia
+RW4W,European Russia
+RW8F,European Russia
+RW8G,European Russia
+RW8H,Asiatic Russia
+RW8I,Asiatic Russia
+RW8O,Asiatic Russia
+RW8P,Asiatic Russia
+RW8S,Asiatic Russia
+RW8T,Asiatic Russia
+RW8U,Asiatic Russia
+RW8V,Asiatic Russia
+RW8W,Asiatic Russia
+RW8X,European Russia
+RW8Y,Asiatic Russia
+RW8Z,Asiatic Russia
+RW9F,European Russia
+RW9G,European Russia
+RW9I,Asiatic Russia
+RW9M,Asiatic Russia
+RW9P,Asiatic Russia
+RW9S,Asiatic Russia
+RW9T,Asiatic Russia
+RW9V,Asiatic Russia
+RW9W,Asiatic Russia
+RW9X,European Russia
+RX0T,Asiatic Russia
+RX1N,European Russia
+RX1O,European Russia
+RX1P,European Russia
+RX1Z,European Russia
+RX2F,Kaliningrad
+RX2K,Kaliningrad
+RX4H,European Russia
+RX4I,European Russia
+RX4W,European Russia
+RX8F,European Russia
+RX8G,European Russia
+RX8H,Asiatic Russia
+RX8I,Asiatic Russia
+RX8O,Asiatic Russia
+RX8P,Asiatic Russia
+RX8S,Asiatic Russia
+RX8T,Asiatic Russia
+RX8U,Asiatic Russia
+RX8V,Asiatic Russia
+RX8W,Asiatic Russia
+RX8X,European Russia
+RX8Y,Asiatic Russia
+RX8Z,Asiatic Russia
+RX9F,European Russia
+RX9G,European Russia
+RX9I,Asiatic Russia
+RX9M,Asiatic Russia
+RX9P,Asiatic Russia
+RX9S,Asiatic Russia
+RX9T,Asiatic Russia
+RX9V,Asiatic Russia
+RX9W,Asiatic Russia
+RX9X,European Russia
+RY0T,Asiatic Russia
+RY1N,European Russia
+RY1O,European Russia
+RY1P,European Russia
+RY1Z,European Russia
+RY2F,Kaliningrad
+RY2K,Kaliningrad
+RY4H,European Russia
+RY4I,European Russia
+RY4W,European Russia
+RY8F,European Russia
+RY8G,European Russia
+RY8H,Asiatic Russia
+RY8I,Asiatic Russia
+RY8O,Asiatic Russia
+RY8P,Asiatic Russia
+RY8S,Asiatic Russia
+RY8T,Asiatic Russia
+RY8U,Asiatic Russia
+RY8V,Asiatic Russia
+RY8W,Asiatic Russia
+RY8X,European Russia
+RY8Y,Asiatic Russia
+RY8Z,Asiatic Russia
+RY9F,European Russia
+RY9G,European Russia
+RY9I,Asiatic Russia
+RY9M,Asiatic Russia
+RY9P,Asiatic Russia
+RY9S,Asiatic Russia
+RY9T,Asiatic Russia
+RY9V,Asiatic Russia
+RY9W,Asiatic Russia
+RY9X,European Russia
+RZ0T,Asiatic Russia
+RZ1N,European Russia
+RZ1O,European Russia
+RZ1P,European Russia
+RZ1Z,European Russia
+RZ2F,Kaliningrad
+RZ2K,Kaliningrad
+RZ4H,European Russia
+RZ4I,European Russia
+RZ4W,European Russia
+RZ8F,European Russia
+RZ8G,European Russia
+RZ8H,Asiatic Russia
+RZ8I,Asiatic Russia
+RZ8O,Asiatic Russia
+RZ8P,Asiatic Russia
+RZ8S,Asiatic Russia
+RZ8T,Asiatic Russia
+RZ8U,Asiatic Russia
+RZ8V,Asiatic Russia
+RZ8W,Asiatic Russia
+RZ8X,European Russia
+RZ8Y,Asiatic Russia
+RZ8Z,Asiatic Russia
+RZ9F,European Russia
+RZ9G,European Russia
+RZ9I,Asiatic Russia
+RZ9M,Asiatic Russia
+RZ9P,Asiatic Russia
+RZ9S,Asiatic Russia
+RZ9T,Asiatic Russia
+RZ9V,Asiatic Russia
+RZ9W,Asiatic Russia
+RZ9X,European Russia
+R0T,Asiatic Russia
+R1N,European Russia
+R1O,European Russia
+R1P,European Russia
+R1Z,European Russia
+R2F,Kaliningrad
+R2K,Kaliningrad
+R4H,European Russia
+R4I,European Russia
+R4W,European Russia
+R8F,European Russia
+R8G,European Russia
+R8H,Asiatic Russia
+R8I,Asiatic Russia
+R8O,Asiatic Russia
+R8P,Asiatic Russia
+R8S,Asiatic Russia
+R8T,Asiatic Russia
+R8U,Asiatic Russia
+R8V,Asiatic Russia
+R8W,Asiatic Russia
+R8X,European Russia
+R8Y,Asiatic Russia
+R8Z,Asiatic Russia
+R9F,European Russia
+R9G,European Russia
+R9I,Asiatic Russia
+R9M,Asiatic Russia
+R9P,Asiatic Russia
+R9S,Asiatic Russia
+R9T,Asiatic Russia
+R9V,Asiatic Russia
+R9W,Asiatic Russia
+R9X,European Russia
+RA0,Asiatic Russia
+RA2,Kaliningrad
+RA8,Asiatic Russia
+RA9,Asiatic Russia
+RC0,Asiatic Russia
+RC8,Asiatic Russia
+RC9,Asiatic Russia
+RD0,Asiatic Russia
+RD8,Asiatic Russia
+RD9,Asiatic Russia
+RE0,Asiatic Russia
+RE8,Asiatic Russia
+RE9,Asiatic Russia
+RF0,Asiatic Russia
+RF8,Asiatic Russia
+RF9,Asiatic Russia
+RG0,Asiatic Russia
+RG8,Asiatic Russia
+RG9,Asiatic Russia
+RI0,Asiatic Russia
+RI8,Asiatic Russia
+RI9,Asiatic Russia
+RJ0,Asiatic Russia
+RJ8,Asiatic Russia
+RJ9,Asiatic Russia
+RK0,Asiatic Russia
+RK8,Asiatic Russia
+RK9,Asiatic Russia
+RL0,Asiatic Russia
+RL8,Asiatic Russia
+RL9,Asiatic Russia
+RM0,Asiatic Russia
+RM8,Asiatic Russia
+RM9,Asiatic Russia
+RN0,Asiatic Russia
+RN8,Asiatic Russia
+RN9,Asiatic Russia
+RO0,Asiatic Russia
+RO8,Asiatic Russia
+RO9,Asiatic Russia
+RQ0,Asiatic Russia
+RQ8,Asiatic Russia
+RQ9,Asiatic Russia
+RT0,Asiatic Russia
+RT8,Asiatic Russia
+RT9,Asiatic Russia
+RU0,Asiatic Russia
+RU8,Asiatic Russia
+RU9,Asiatic Russia
+RV0,Asiatic Russia
+RV8,Asiatic Russia
+RV9,Asiatic Russia
+RW0,Asiatic Russia
+RW8,Asiatic Russia
+RW9,Asiatic Russia
+RX0,Asiatic Russia
+RX8,Asiatic Russia
+RX9,Asiatic Russia
+RY0,Asiatic Russia
+RY8,Asiatic Russia
+RY9,Asiatic Russia
+RZ0,Asiatic Russia
+RZ8,Asiatic Russia
+RZ9,Asiatic Russia
+R0,Asiatic Russia
+R8,Asiatic Russia
+R9,Asiatic Russia
+R,European Russia
+SV5,Dodecanese
+SV9,Crete
+SW5,Dodecanese
+SW9,Crete
+SX5,Dodecanese
+SX9,Crete
+SY5,Dodecanese
+SY9,Crete
+SZ5,Dodecanese
+SZ9,Crete
+S0,Western Sahara
+S2,Bangladesh
+S3,Bangladesh
+S4,South Africa
+S5,Slovenia
+S6,Singapore
+S7,Seychelles
+S8,South Africa
+S9,Sao Tome & Principe
+SA,Sweden
+SB,Sweden
+SC,Sweden
+SD,Sweden
+SE,Sweden
+SF,Sweden
+SG,Sweden
+SH,Sweden
+SI,Sweden
+SJ,Sweden
+SK,Sweden
+SL,Sweden
+SM,Sweden
+SN,Poland
+SO,Poland
+SP,Poland
+SQ,Poland
+SR,Poland
+SS,Egypt
+ST,Sudan
+SU,Egypt
+SV,Greece
+SW,Greece
+SX,Greece
+SY,Greece
+SZ,Greece
+T30,Western Kiribati
+T31,Central Kiribati
+T32,Eastern Kiribati
+T33,Banaba Island
+TA1,European Turkey
+TB1,European Turkey
+TC1,European Turkey
+TE9,Cocos Island
+TI9,Cocos Island
+T2,Tuvalu
+T4,Cuba
+T5,Somalia
+T6,Afghanistan
+T7,San Marino
+T8,Palau
+TA,Asiatic Turkey
+TB,Asiatic Turkey
+TC,Asiatic Turkey
+TD,Guatemala
+TE,Costa Rica
+TF,Iceland
+TG,Guatemala
+TH,France
+TI,Costa Rica
+TJ,Cameroon
+TK,Corsica
+TL,Central African Republic
+TM,France
+TN,Republic of the Congo
+TP,France
+TQ,France
+TR,Gabon
+TS,Tunisia
+TT,Chad
+TU,Cote d'Ivoire
+TV,France
+TW,Wallis & Futuna Islands
+TY,Benin
+TZ,Mali
+UA0T,Asiatic Russia
+UA1N,European Russia
+UA1O,European Russia
+UA1P,European Russia
+UA1Z,European Russia
+UA4H,European Russia
+UA4I,European Russia
+UA4W,European Russia
+UA8F,European Russia
+UA8G,European Russia
+UA8H,Asiatic Russia
+UA8I,Asiatic Russia
+UA8O,Asiatic Russia
+UA8P,Asiatic Russia
+UA8S,Asiatic Russia
+UA8T,Asiatic Russia
+UA8U,Asiatic Russia
+UA8V,Asiatic Russia
+UA8W,Asiatic Russia
+UA8X,European Russia
+UA8Y,Asiatic Russia
+UA8Z,Asiatic Russia
+UA9F,European Russia
+UA9G,European Russia
+UA9I,Asiatic Russia
+UA9M,Asiatic Russia
+UA9P,Asiatic Russia
+UA9S,Asiatic Russia
+UA9T,Asiatic Russia
+UA9V,Asiatic Russia
+UA9W,Asiatic Russia
+UA9X,European Russia
+UB0T,Asiatic Russia
+UB1N,European Russia
+UB1O,European Russia
+UB1P,European Russia
+UB1Z,European Russia
+UB4H,European Russia
+UB4I,European Russia
+UB4W,European Russia
+UB8F,European Russia
+UB8G,European Russia
+UB8H,Asiatic Russia
+UB8I,Asiatic Russia
+UB8O,Asiatic Russia
+UB8P,Asiatic Russia
+UB8S,Asiatic Russia
+UB8T,Asiatic Russia
+UB8U,Asiatic Russia
+UB8V,Asiatic Russia
+UB8W,Asiatic Russia
+UB8X,European Russia
+UB8Y,Asiatic Russia
+UB8Z,Asiatic Russia
+UB9F,European Russia
+UB9G,European Russia
+UB9I,Asiatic Russia
+UB9M,Asiatic Russia
+UB9P,Asiatic Russia
+UB9S,Asiatic Russia
+UB9T,Asiatic Russia
+UB9V,Asiatic Russia
+UB9W,Asiatic Russia
+UB9X,European Russia
+UC0T,Asiatic Russia
+UC1N,European Russia
+UC1O,European Russia
+UC1P,European Russia
+UC1Z,European Russia
+UC4H,European Russia
+UC4I,European Russia
+UC4W,European Russia
+UC8F,European Russia
+UC8G,European Russia
+UC8H,Asiatic Russia
+UC8I,Asiatic Russia
+UC8O,Asiatic Russia
+UC8P,Asiatic Russia
+UC8S,Asiatic Russia
+UC8T,Asiatic Russia
+UC8U,Asiatic Russia
+UC8V,Asiatic Russia
+UC8W,Asiatic Russia
+UC8X,European Russia
+UC8Y,Asiatic Russia
+UC8Z,Asiatic Russia
+UC9F,European Russia
+UC9G,European Russia
+UC9I,Asiatic Russia
+UC9M,Asiatic Russia
+UC9P,Asiatic Russia
+UC9S,Asiatic Russia
+UC9T,Asiatic Russia
+UC9V,Asiatic Russia
+UC9W,Asiatic Russia
+UC9X,European Russia
+UD0T,Asiatic Russia
+UD1N,European Russia
+UD1O,European Russia
+UD1P,European Russia
+UD1Z,European Russia
+UD4H,European Russia
+UD4I,European Russia
+UD4W,European Russia
+UD8F,European Russia
+UD8G,European Russia
+UD8H,Asiatic Russia
+UD8I,Asiatic Russia
+UD8O,Asiatic Russia
+UD8P,Asiatic Russia
+UD8S,Asiatic Russia
+UD8T,Asiatic Russia
+UD8U,Asiatic Russia
+UD8V,Asiatic Russia
+UD8W,Asiatic Russia
+UD8X,European Russia
+UD8Y,Asiatic Russia
+UD8Z,Asiatic Russia
+UD9F,European Russia
+UD9G,European Russia
+UD9I,Asiatic Russia
+UD9M,Asiatic Russia
+UD9P,Asiatic Russia
+UD9S,Asiatic Russia
+UD9T,Asiatic Russia
+UD9V,Asiatic Russia
+UD9W,Asiatic Russia
+UD9X,European Russia
+UE0T,Asiatic Russia
+UE1N,European Russia
+UE1O,European Russia
+UE1P,European Russia
+UE1Z,European Russia
+UE4H,European Russia
+UE4I,European Russia
+UE4W,European Russia
+UE8F,European Russia
+UE8G,European Russia
+UE8H,Asiatic Russia
+UE8I,Asiatic Russia
+UE8O,Asiatic Russia
+UE8P,Asiatic Russia
+UE8S,Asiatic Russia
+UE8T,Asiatic Russia
+UE8U,Asiatic Russia
+UE8V,Asiatic Russia
+UE8W,Asiatic Russia
+UE8X,European Russia
+UE8Y,Asiatic Russia
+UE8Z,Asiatic Russia
+UE9F,European Russia
+UE9G,European Russia
+UE9I,Asiatic Russia
+UE9M,Asiatic Russia
+UE9P,Asiatic Russia
+UE9S,Asiatic Russia
+UE9T,Asiatic Russia
+UE9V,Asiatic Russia
+UE9W,Asiatic Russia
+UE9X,European Russia
+UF0T,Asiatic Russia
+UF1N,European Russia
+UF1O,European Russia
+UF1P,European Russia
+UF1Z,European Russia
+UF4H,European Russia
+UF4I,European Russia
+UF4W,European Russia
+UF8F,European Russia
+UF8G,European Russia
+UF8H,Asiatic Russia
+UF8I,Asiatic Russia
+UF8O,Asiatic Russia
+UF8P,Asiatic Russia
+UF8S,Asiatic Russia
+UF8T,Asiatic Russia
+UF8U,Asiatic Russia
+UF8V,Asiatic Russia
+UF8W,Asiatic Russia
+UF8X,European Russia
+UF8Y,Asiatic Russia
+UF8Z,Asiatic Russia
+UF9F,European Russia
+UF9G,European Russia
+UF9I,Asiatic Russia
+UF9M,Asiatic Russia
+UF9P,Asiatic Russia
+UF9S,Asiatic Russia
+UF9T,Asiatic Russia
+UF9V,Asiatic Russia
+UF9W,Asiatic Russia
+UF9X,European Russia
+UG0T,Asiatic Russia
+UG1N,European Russia
+UG1O,European Russia
+UG1P,European Russia
+UG1Z,European Russia
+UG4H,European Russia
+UG4I,European Russia
+UG4W,European Russia
+UG8F,European Russia
+UG8G,European Russia
+UG8H,Asiatic Russia
+UG8I,Asiatic Russia
+UG8O,Asiatic Russia
+UG8P,Asiatic Russia
+UG8S,Asiatic Russia
+UG8T,Asiatic Russia
+UG8U,Asiatic Russia
+UG8V,Asiatic Russia
+UG8W,Asiatic Russia
+UG8X,European Russia
+UG8Y,Asiatic Russia
+UG8Z,Asiatic Russia
+UG9F,European Russia
+UG9G,European Russia
+UG9I,Asiatic Russia
+UG9M,Asiatic Russia
+UG9P,Asiatic Russia
+UG9S,Asiatic Russia
+UG9T,Asiatic Russia
+UG9V,Asiatic Russia
+UG9W,Asiatic Russia
+UG9X,European Russia
+UH0T,Asiatic Russia
+UH1N,European Russia
+UH1O,European Russia
+UH1P,European Russia
+UH1Z,European Russia
+UH4H,European Russia
+UH4I,European Russia
+UH4W,European Russia
+UH8F,European Russia
+UH8G,European Russia
+UH8H,Asiatic Russia
+UH8I,Asiatic Russia
+UH8O,Asiatic Russia
+UH8P,Asiatic Russia
+UH8S,Asiatic Russia
+UH8T,Asiatic Russia
+UH8U,Asiatic Russia
+UH8V,Asiatic Russia
+UH8W,Asiatic Russia
+UH8X,European Russia
+UH8Y,Asiatic Russia
+UH8Z,Asiatic Russia
+UH9F,European Russia
+UH9G,European Russia
+UH9I,Asiatic Russia
+UH9M,Asiatic Russia
+UH9P,Asiatic Russia
+UH9S,Asiatic Russia
+UH9T,Asiatic Russia
+UH9V,Asiatic Russia
+UH9W,Asiatic Russia
+UH9X,European Russia
+UI0T,Asiatic Russia
+UI1N,European Russia
+UI1O,European Russia
+UI1P,European Russia
+UI1Z,European Russia
+UI4H,European Russia
+UI4I,European Russia
+UI4W,European Russia
+UI8F,European Russia
+UI8G,European Russia
+UI8H,Asiatic Russia
+UI8I,Asiatic Russia
+UI8O,Asiatic Russia
+UI8P,Asiatic Russia
+UI8S,Asiatic Russia
+UI8T,Asiatic Russia
+UI8U,Asiatic Russia
+UI8V,Asiatic Russia
+UI8W,Asiatic Russia
+UI8X,European Russia
+UI8Y,Asiatic Russia
+UI8Z,Asiatic Russia
+UI9F,European Russia
+UI9G,European Russia
+UI9I,Asiatic Russia
+UI9M,Asiatic Russia
+UI9P,Asiatic Russia
+UI9S,Asiatic Russia
+UI9T,Asiatic Russia
+UI9V,Asiatic Russia
+UI9W,Asiatic Russia
+UI9X,European Russia
+UN0F,Kazakhstan
+UN0G,Kazakhstan
+UN0J,Kazakhstan
+UN0Q,Kazakhstan
+UN1F,Kazakhstan
+UN1G,Kazakhstan
+UN1J,Kazakhstan
+UN1Q,Kazakhstan
+UN2F,Kazakhstan
+UN2G,Kazakhstan
+UN2J,Kazakhstan
+UN2Q,Kazakhstan
+UN3F,Kazakhstan
+UN3G,Kazakhstan
+UN3J,Kazakhstan
+UN3Q,Kazakhstan
+UN4F,Kazakhstan
+UN4G,Kazakhstan
+UN4J,Kazakhstan
+UN4Q,Kazakhstan
+UN5F,Kazakhstan
+UN5G,Kazakhstan
+UN5J,Kazakhstan
+UN5Q,Kazakhstan
+UN6F,Kazakhstan
+UN6G,Kazakhstan
+UN6J,Kazakhstan
+UN6Q,Kazakhstan
+UN7F,Kazakhstan
+UN7G,Kazakhstan
+UN7J,Kazakhstan
+UN7Q,Kazakhstan
+UN8F,Kazakhstan
+UN8G,Kazakhstan
+UN8J,Kazakhstan
+UN8Q,Kazakhstan
+UN9F,Kazakhstan
+UN9G,Kazakhstan
+UN9J,Kazakhstan
+UN9Q,Kazakhstan
+UO0F,Kazakhstan
+UO0G,Kazakhstan
+UO0J,Kazakhstan
+UO0Q,Kazakhstan
+UO1F,Kazakhstan
+UO1G,Kazakhstan
+UO1J,Kazakhstan
+UO1Q,Kazakhstan
+UO2F,Kazakhstan
+UO2G,Kazakhstan
+UO2J,Kazakhstan
+UO2Q,Kazakhstan
+UO3F,Kazakhstan
+UO3G,Kazakhstan
+UO3J,Kazakhstan
+UO3Q,Kazakhstan
+UO4F,Kazakhstan
+UO4G,Kazakhstan
+UO4J,Kazakhstan
+UO4Q,Kazakhstan
+UO5F,Kazakhstan
+UO5G,Kazakhstan
+UO5J,Kazakhstan
+UO5Q,Kazakhstan
+UO6F,Kazakhstan
+UO6G,Kazakhstan
+UO6J,Kazakhstan
+UO6Q,Kazakhstan
+UO7F,Kazakhstan
+UO7G,Kazakhstan
+UO7J,Kazakhstan
+UO7Q,Kazakhstan
+UO8F,Kazakhstan
+UO8G,Kazakhstan
+UO8J,Kazakhstan
+UO8Q,Kazakhstan
+UO9F,Kazakhstan
+UO9G,Kazakhstan
+UO9J,Kazakhstan
+UO9Q,Kazakhstan
+UP0F,Kazakhstan
+UP0G,Kazakhstan
+UP0J,Kazakhstan
+UP0Q,Kazakhstan
+UP1F,Kazakhstan
+UP1G,Kazakhstan
+UP1J,Kazakhstan
+UP1Q,Kazakhstan
+UP2F,Kazakhstan
+UP2G,Kazakhstan
+UP2J,Kazakhstan
+UP2Q,Kazakhstan
+UP3F,Kazakhstan
+UP3G,Kazakhstan
+UP3J,Kazakhstan
+UP3Q,Kazakhstan
+UP4F,Kazakhstan
+UP4G,Kazakhstan
+UP4J,Kazakhstan
+UP4Q,Kazakhstan
+UP5F,Kazakhstan
+UP5G,Kazakhstan
+UP5J,Kazakhstan
+UP5Q,Kazakhstan
+UP6F,Kazakhstan
+UP6G,Kazakhstan
+UP6J,Kazakhstan
+UP6Q,Kazakhstan
+UP7F,Kazakhstan
+UP7G,Kazakhstan
+UP7J,Kazakhstan
+UP7Q,Kazakhstan
+UP8F,Kazakhstan
+UP8G,Kazakhstan
+UP8J,Kazakhstan
+UP8Q,Kazakhstan
+UP9F,Kazakhstan
+UP9G,Kazakhstan
+UP9J,Kazakhstan
+UP9Q,Kazakhstan
+UQ0F,Kazakhstan
+UQ0G,Kazakhstan
+UQ0J,Kazakhstan
+UQ0Q,Kazakhstan
+UQ1F,Kazakhstan
+UQ1G,Kazakhstan
+UQ1J,Kazakhstan
+UQ1Q,Kazakhstan
+UQ2F,Kazakhstan
+UQ2G,Kazakhstan
+UQ2J,Kazakhstan
+UQ2Q,Kazakhstan
+UQ3F,Kazakhstan
+UQ3G,Kazakhstan
+UQ3J,Kazakhstan
+UQ3Q,Kazakhstan
+UQ4F,Kazakhstan
+UQ4G,Kazakhstan
+UQ4J,Kazakhstan
+UQ4Q,Kazakhstan
+UQ5F,Kazakhstan
+UQ5G,Kazakhstan
+UQ5J,Kazakhstan
+UQ5Q,Kazakhstan
+UQ6F,Kazakhstan
+UQ6G,Kazakhstan
+UQ6J,Kazakhstan
+UQ6Q,Kazakhstan
+UQ7F,Kazakhstan
+UQ7G,Kazakhstan
+UQ7J,Kazakhstan
+UQ7Q,Kazakhstan
+UQ8F,Kazakhstan
+UQ8G,Kazakhstan
+UQ8J,Kazakhstan
+UQ8Q,Kazakhstan
+UQ9F,Kazakhstan
+UQ9G,Kazakhstan
+UQ9J,Kazakhstan
+UQ9Q,Kazakhstan
+U0T,Asiatic Russia
+U1N,European Russia
+U1O,European Russia
+U1P,European Russia
+U1Z,European Russia
+U2F,Kaliningrad
+U2K,Kaliningrad
+U4H,European Russia
+U4I,European Russia
+U4W,European Russia
+U8F,European Russia
+U8G,European Russia
+U8H,Asiatic Russia
+U8I,Asiatic Russia
+U8O,Asiatic Russia
+U8P,Asiatic Russia
+U8S,Asiatic Russia
+U8T,Asiatic Russia
+U8U,Asiatic Russia
+U8V,Asiatic Russia
+U8W,Asiatic Russia
+U8X,European Russia
+U8Y,Asiatic Russia
+U8Z,Asiatic Russia
+U9F,European Russia
+U9G,European Russia
+U9I,Asiatic Russia
+U9M,Asiatic Russia
+U9P,Asiatic Russia
+U9S,Asiatic Russia
+U9T,Asiatic Russia
+U9V,Asiatic Russia
+U9W,Asiatic Russia
+U9X,European Russia
+UA0,Asiatic Russia
+UA2,Kaliningrad
+UA8,Asiatic Russia
+UA9,Asiatic Russia
+UB0,Asiatic Russia
+UB2,Kaliningrad
+UB8,Asiatic Russia
+UB9,Asiatic Russia
+UC0,Asiatic Russia
+UC2,Kaliningrad
+UC8,Asiatic Russia
+UC9,Asiatic Russia
+UD0,Asiatic Russia
+UD2,Kaliningrad
+UD8,Asiatic Russia
+UD9,Asiatic Russia
+UE0,Asiatic Russia
+UE2,Kaliningrad
+UE8,Asiatic Russia
+UE9,Asiatic Russia
+UF0,Asiatic Russia
+UF2,Kaliningrad
+UF8,Asiatic Russia
+UF9,Asiatic Russia
+UG0,Asiatic Russia
+UG2,Kaliningrad
+UG8,Asiatic Russia
+UG9,Asiatic Russia
+UH0,Asiatic Russia
+UH2,Kaliningrad
+UH8,Asiatic Russia
+UH9,Asiatic Russia
+UI0,Asiatic Russia
+UI2,Kaliningrad
+UI8,Asiatic Russia
+UI9,Asiatic Russia
+U0,Asiatic Russia
+U5,Ukraine
+U8,Asiatic Russia
+U9,Asiatic Russia
+UJ,Uzbekistan
+UK,Uzbekistan
+UL,Uzbekistan
+UM,Uzbekistan
+UN,Kazakhstan
+UO,Kazakhstan
+UP,Kazakhstan
+UQ,Kazakhstan
+UR,Ukraine
+US,Ukraine
+UT,Ukraine
+UU,Ukraine
+UV,Ukraine
+UW,Ukraine
+UX,Ukraine
+UY,Ukraine
+UZ,Ukraine
+U,European Russia
+VK9FC,Cocos (Keeling) Islands
+VK9FL,Lord Howe Island
+VK9FW,Willis Island
+VK9FX,Christmas Island
+VK9KC,Cocos (Keeling) Islands
+VK9KX,Christmas Island
+VK9ZL,Lord Howe Island
+VK9ZY,Cocos (Keeling) Islands
+VH9C,Cocos (Keeling) Islands
+VH9L,Lord Howe Island
+VH9M,Mellish Reef
+VH9W,Willis Island
+VH9X,Christmas Island
+VH9Y,Cocos (Keeling) Islands
+VH9Z,Willis Island
+VI9C,Cocos (Keeling) Islands
+VI9L,Lord Howe Island
+VI9M,Mellish Reef
+VI9W,Willis Island
+VI9X,Christmas Island
+VI9Y,Cocos (Keeling) Islands
+VI9Z,Willis Island
+VJ9C,Cocos (Keeling) Islands
+VJ9L,Lord Howe Island
+VJ9M,Mellish Reef
+VJ9W,Willis Island
+VJ9X,Christmas Island
+VJ9Y,Cocos (Keeling) Islands
+VJ9Z,Willis Island
+VK9C,Cocos (Keeling) Islands
+VK9L,Lord Howe Island
+VK9M,Mellish Reef
+VK9W,Willis Island
+VK9X,Christmas Island
+VK9Y,Cocos (Keeling) Islands
+VK9Z,Willis Island
+VL9C,Cocos (Keeling) Islands
+VL9L,Lord Howe Island
+VL9M,Mellish Reef
+VL9W,Willis Island
+VL9X,Christmas Island
+VL9Y,Cocos (Keeling) Islands
+VL9Z,Willis Island
+VM9C,Cocos (Keeling) Islands
+VM9L,Lord Howe Island
+VM9M,Mellish Reef
+VM9W,Willis Island
+VM9X,Christmas Island
+VM9Y,Cocos (Keeling) Islands
+VM9Z,Willis Island
+VN9C,Cocos (Keeling) Islands
+VN9L,Lord Howe Island
+VN9M,Mellish Reef
+VN9W,Willis Island
+VN9X,Christmas Island
+VN9Y,Cocos (Keeling) Islands
+VN9Z,Willis Island
+VP2E,Anguilla
+VP2M,Montserrat
+VP2V,British Virgin Islands
+VZ9C,Cocos (Keeling) Islands
+VZ9L,Lord Howe Island
+VZ9M,Mellish Reef
+VZ9W,Willis Island
+VZ9X,Christmas Island
+VZ9Y,Cocos (Keeling) Islands
+VZ9Z,Willis Island
+VA2,Canada
+VB2,Canada
+VC2,Canada
+VD1,Canada
+VD2,Canada
+VE2,Canada
+VF0,Canada
+VF1,Canada
+VF2,Canada
+VG2,Canada
+VH4,Australia
+VH9,Norfolk Island
+VI0,Antarctica
+VI4,Australia
+VI9,Norfolk Island
+VJ4,Australia
+VJ9,Norfolk Island
+VK0,Antarctica
+VK4,Australia
+VK9,Norfolk Island
+VL4,Australia
+VL9,Norfolk Island
+VM4,Australia
+VM9,Norfolk Island
+VN4,Australia
+VN9,Norfolk Island
+VO1,Canada
+VO2,Canada
+VP5,Turks & Caicos Islands
+VP6,Pitcairn Island
+VP8,Falkland Islands
+VP9,Bermuda
+VQ5,Turks & Caicos Islands
+VQ9,Chagos Islands
+VU4,Andaman & Nicobar Is.
+VU7,Lakshadweep Islands
+VX2,Canada
+VY0,Canada
+VY1,Canada
+VY2,Canada
+VY9,Canada
+VZ4,Australia
+VZ9,Norfolk Island
+V2,Antigua & Barbuda
+V3,Belize
+V4,St. Kitts & Nevis
+V5,Namibia
+V6,Micronesia
+V7,Marshall Islands
+V8,Brunei Darussalam
+V9,South Africa
+VA,Canada
+VB,Canada
+VC,Canada
+VE,Canada
+VG,Canada
+VH,Australia
+VI,Australia
+VJ,Australia
+VK,Australia
+VL,Australia
+VM,Australia
+VN,Australia
+VR,Hong Kong
+VT,India
+VU,India
+VV,India
+VW,India
+VX,Canada
+VZ,Australia
+WH7K,Kure Island
+WH0,Mariana Islands
+WH1,Baker & Howland Islands
+WH2,Guam
+WH3,Johnston Island
+WH4,Midway Island
+WH5,Palmyra & Jarvis Islands
+WH6,Hawaii
+WH7,Hawaii
+WH8,American Samoa
+WH9,Wake Island
+WP1,Navassa Island
+WP2,US Virgin Islands
+WP3,Puerto Rico
+WP4,Puerto Rico
+WP5,Desecheo Island
+WL,Alaska
+W,United States
+XQ0X,San Felix & San Ambrosio
+XQ0Z,Juan Fernandez Islands
+XR0X,San Felix & San Ambrosio
+XR0Z,Juan Fernandez Islands
+XA4,Revillagigedo
+XB4,Revillagigedo
+XC4,Revillagigedo
+XD4,Revillagigedo
+XE4,Revillagigedo
+XF0,Revillagigedo
+XF4,Revillagigedo
+XG4,Revillagigedo
+XH4,Revillagigedo
+XI4,Revillagigedo
+XJ1,Canada
+XJ2,Canada
+XK0,Canada
+XK1,Canada
+XK2,Canada
+XL2,Canada
+XM2,Canada
+XN1,Canada
+XN2,Canada
+XO0,Canada
+XO1,Canada
+XO2,Canada
+XQ0,Easter Island
+XQ7,Chile
+XQ8,Chile
+XR0,Easter Island
+XR7,Chile
+XR8,Chile
+XR9,South Shetland Islands
+XS0,China
+XS9,China
+XX9,Macao
+XA,Mexico
+XB,Mexico
+XC,Mexico
+XD,Mexico
+XE,Mexico
+XF,Mexico
+XG,Mexico
+XH,Mexico
+XI,Mexico
+XL,Canada
+XM,Canada
+XP,Greenland
+XQ,Chile
+XR,Chile
+XS,China
+XT,Burkina Faso
+XU,Cambodia
+XV,Vietnam
+XW,Laos
+XY,Myanmar
+XZ,Myanmar
+YB0,Indonesia
+YB1,Indonesia
+YB2,Indonesia
+YB3,Indonesia
+YB4,Indonesia
+YB5,Indonesia
+YB6,Indonesia
+YB7,Indonesia
+YB8,Indonesia
+YC0,Indonesia
+YC1,Indonesia
+YC2,Indonesia
+YC3,Indonesia
+YC4,Indonesia
+YC5,Indonesia
+YC6,Indonesia
+YC7,Indonesia
+YC8,Indonesia
+YD0,Indonesia
+YD1,Indonesia
+YD2,Indonesia
+YD3,Indonesia
+YD4,Indonesia
+YD5,Indonesia
+YD6,Indonesia
+YD7,Indonesia
+YD8,Indonesia
+YE0,Indonesia
+YE1,Indonesia
+YE2,Indonesia
+YE3,Indonesia
+YE4,Indonesia
+YE5,Indonesia
+YE6,Indonesia
+YE7,Indonesia
+YE8,Indonesia
+YF0,Indonesia
+YF1,Indonesia
+YF2,Indonesia
+YF3,Indonesia
+YF4,Indonesia
+YF5,Indonesia
+YF6,Indonesia
+YF7,Indonesia
+YF8,Indonesia
+YG0,Indonesia
+YG1,Indonesia
+YG2,Indonesia
+YG3,Indonesia
+YG4,Indonesia
+YG5,Indonesia
+YG6,Indonesia
+YG7,Indonesia
+YG8,Indonesia
+YH0,Indonesia
+YH1,Indonesia
+YH2,Indonesia
+YH3,Indonesia
+YH4,Indonesia
+YH5,Indonesia
+YH6,Indonesia
+YH7,Indonesia
+YH8,Indonesia
+YM1,European Turkey
+YV0,Aves Island
+YW0,Aves Island
+YX0,Aves Island
+YY0,Aves Island
+YA,Afghanistan
+YB,Indonesia
+YC,Indonesia
+YD,Indonesia
+YE,Indonesia
+YF,Indonesia
+YG,Indonesia
+YH,Indonesia
+YI,Iraq
+YJ,Vanuatu
+YK,Syria
+YL,Latvia
+YM,Asiatic Turkey
+YN,Nicaragua
+YO,Romania
+YP,Romania
+YQ,Romania
+YR,Romania
+YS,El Salvador
+YT,Serbia
+YU,Serbia
+YV,Venezuela
+YW,Venezuela
+YX,Venezuela
+YY,Venezuela
+ZV0ZF,Fernando de Noronha
+ZV0ZR,Fernando de Noronha
+ZV0ZS,St. Peter & St. Paul
+ZV0ZT,Trindade & Martim Vaz
+ZW0ZF,Fernando de Noronha
+ZW0ZR,Fernando de Noronha
+ZW0ZS,St. Peter & St. Paul
+ZW0ZT,Trindade & Martim Vaz
+ZX0ZF,Fernando de Noronha
+ZX0ZR,Fernando de Noronha
+ZX0ZS,St. Peter & St. Paul
+ZX0ZT,Trindade & Martim Vaz
+ZY0ZS,St. Peter & St. Paul
+ZY0ZT,Trindade & Martim Vaz
+ZZ0ZF,Fernando de Noronha
+ZZ0ZR,Fernando de Noronha
+ZZ0ZS,St. Peter & St. Paul
+ZZ0ZT,Trindade & Martim Vaz
+ZL50,New Zealand
+ZV0F,Fernando de Noronha
+ZV0R,Fernando de Noronha
+ZV0S,St. Peter & St. Paul
+ZV0T,Trindade & Martim Vaz
+ZW0F,Fernando de Noronha
+ZW0R,Fernando de Noronha
+ZW0S,St. Peter & St. Paul
+ZW0T,Trindade & Martim Vaz
+ZX0F,Fernando de Noronha
+ZX0R,Fernando de Noronha
+ZX0S,St. Peter & St. Paul
+ZX0T,Trindade & Martim Vaz
+ZY0F,Fernando de Noronha
+ZY0R,Fernando de Noronha
+ZY0S,St. Peter & St. Paul
+ZY0T,Trindade & Martim Vaz
+ZY0Z,Fernando de Noronha
+ZZ0F,Fernando de Noronha
+ZZ0R,Fernando de Noronha
+ZZ0S,St. Peter & St. Paul
+ZZ0T,Trindade & Martim Vaz
+ZC4,UK Base Areas on Cyprus
+ZD7,St. Helena
+ZD8,Ascension Island
+ZD9,Tristan da Cunha & Gough
+ZK3,Tokelau Islands
+ZL5,Antarctica
+ZL7,Chatham Islands
+ZL8,Kermadec Islands
+ZL9,N.Z. Subantarctic Is.
+ZM5,Antarctica
+ZM7,Chatham Islands
+ZM8,Kermadec Islands
+ZR8,Pr. Edward & Marion Is.
+ZS7,Antarctica
+ZS8,Pr. Edward & Marion Is.
+ZT8,Pr. Edward & Marion Is.
+ZU8,Pr. Edward & Marion Is.
+Z2,Zimbabwe
+Z3,Macedonia
+Z6,Kosovo
+Z8,Republic of South Sudan
+ZA,Albania
+ZB,Gibraltar
+ZF,Cayman Islands
+ZG,Gibraltar
+ZK,New Zealand
+ZL,New Zealand
+ZM,New Zealand
+ZP,Paraguay
+ZR,South Africa
+ZS,South Africa
+ZT,South Africa
+ZU,South Africa
+ZV,Brazil
+ZW,Brazil
+ZX,Brazil
+ZY,Brazil
+ZZ,Brazil

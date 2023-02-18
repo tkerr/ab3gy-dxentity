@@ -1,0 +1,999 @@
+2M0BDR,Shetland Islands
+2M0BDT,Shetland Islands
+2M0CPN,Shetland Islands
+2M0GFC,Shetland Islands
+2M0SEG,Shetland Islands
+2M0SPX,Shetland Islands
+2M0ZET,Shetland Islands
+3D2C,Conway Reef
+3D2RI,Rotuma Island
+3Y0E,Bouvet
+3Y0X,Peter 1 Island
+4U0R,Austria
+4U0R,Vienna Intl Ctr
+4U0WFP,Italy
+4U1A,Austria
+4U1A,Vienna Intl Ctr
+4U1GSC,Italy
+4U1ITU,ITU HQ
+4U1UN,United Nations HQ
+4U1VIC,Austria
+4U1VIC,Vienna Intl Ctr
+4U1WB,United States
+4U1WRC,ITU HQ
+4U5F,Italy
+4U7F,Italy
+4Y1A,Austria
+4Y1A,Vienna Intl Ctr
+8J1RL,Antarctica
+8J1ZIU/JD1,Minami Torishima
+8J60JARE,Antarctica
+9M4CCB,East Malaysia
+9M4CRB,East Malaysia
+9M4CSR,East Malaysia
+AA2IL,United States
+AA4DD,United States
+AA4NU,United States
+AA4QE,United States
+AA4R,United States
+AA5NT,United States
+AB4B,United States
+AB4GG,United States
+AB4IQ,United States
+AB4KJ,United States
+AB5JB,Alaska
+AB5OR,United States
+AB8YZ,United States
+AB9DU,United States
+AC4CA,United States
+AC4G,United States
+AC4YD,United States
+AC7LR,Hawaii
+AC7N,Hawaii
+AC7P,United States
+AC8Y,United States
+AC9QX,Alaska
+AD1C,United States
+AD4EB,United States
+AD7MF,Alaska
+AD8J,United States
+AE7AP,United States
+AE7ES,Alaska
+AG1RL,United States
+AG4M,United States
+AG4W,United States
+AG5LN,Alaska
+AH0AH,Alaska
+AH0U,United States
+AH2O,United States
+AH6AX,United States
+AH6FF,United States
+AI0M,United States
+AI8F,United States
+AI9K,United States
+AJ0M,Hawaii
+AJ4A,United States
+AJ4F,United States
+AJ5E,United States
+AK4P,Alaska
+AK9D,United States
+AL4B,United States
+AL5M,United States
+AX/VK0TH,Macquarie Island
+BS7H,Scarborough Reef
+C7A,Austria
+C7A,Vienna Intl Ctr
+CF2RC,Canada
+CF2VVV,Canada
+DP0GVN,Antarctica
+DP1POL,Antarctica
+E51PT,North Cook Islands
+E51WL,North Cook Islands
+EA1URL/CVL,Spain
+EA3CBH/6,Balearic Islands
+EA3HSD/P,Spain
+EA5CC/P,Spain
+EA5EZ/P,Spain
+EA5IKT/P,Spain
+EA5URE/P,Spain
+EA8BFH/4,Spain
+EA8BFH/P,Spain
+EA9CD/P,Ceuta & Melilla
+EA9HU/7,Spain
+EA9PD/P,Ceuta & Melilla
+FO/IZ2ZTQ,Marquesas Islands
+FO/JI1JKW,Austral Islands
+FO5QS,Marquesas Islands
+GB0DS,Wales
+GB0GPF,Northern Ireland
+GB0MPA,Wales
+GB0PSW,Scotland
+GB0SGC,Wales
+GB0WHR,Wales
+GB1BPL,Wales
+GB1OL,Scotland
+GB2AL,Scotland
+GB2CM,Scotland
+GB2DWR,Wales
+GB2ELH,Scotland
+GB2GGM,Wales
+GB2GNL,Scotland
+GB2IMD,Wales
+GB2LBR,Wales
+GB2OL,Scotland
+GB2OWM,Scotland
+GB3ANG,Scotland
+GB3HQ/YOTA,England
+GB3LER,Scotland
+GB3LER,Shetland Islands
+GB3LER/B,Scotland
+GB3LER/B,Shetland Islands
+GB3NGI,Northern Ireland
+GB4LER,Scotland
+GB4LER,Shetland Islands
+GB4RME,Wales
+GB4SDD,Wales
+GB4UAS,Northern Ireland
+GB5AC,Wales
+GB5TAM,Scotland
+GB6BEN,Scotland
+GB6BLB,Wales
+GM0AVR,Shetland Islands
+GM0CXQ,Shetland Islands
+GM0EKM,Shetland Islands
+GM0GFL,Shetland Islands
+GM0ILB,Shetland Islands
+GM0JDB,Shetland Islands
+GM1FGN,Shetland Islands
+GM1KKI,Shetland Islands
+GM1ZNR,Shetland Islands
+GM3TTC/P,Scotland
+GM3WHT,Shetland Islands
+GM3ZET,Shetland Islands
+GM4IPK,Shetland Islands
+GM4JPI,Shetland Islands
+GM4LBE,Shetland Islands
+GM4LER,Shetland Islands
+GM4PXG,Shetland Islands
+GM4SLV,Shetland Islands
+GM4SSA,Shetland Islands
+GM4WXQ,Shetland Islands
+GM4ZHL,Shetland Islands
+GM6RQW,Shetland Islands
+GM6YQA,Shetland Islands
+GM7AFE,Shetland Islands
+GM7GWW,Shetland Islands
+GM8LNH,Shetland Islands
+GM8MMA,Shetland Islands
+GM8YEC,Shetland Islands
+GS3ZET,Shetland Islands
+HF0ARC,South Shetland Islands
+HF0POL,South Shetland Islands
+HK0TU,Malpelo Island
+II0ICH,Sardinia
+II0IDP,Sardinia
+II0SB,Sardinia
+IQ0AG,Sardinia
+IQ0AG/P,Sardinia
+IQ0AH,Sardinia
+IQ0AH/P,Sardinia
+IQ0AI,Sardinia
+IQ0AK,Sardinia
+IQ0AK/P,Sardinia
+IQ0AL,Sardinia
+IQ0AM,Sardinia
+IQ0AM/P,Sardinia
+IQ0EH,Sardinia
+IQ0HO,Sardinia
+IQ0ID,Sardinia
+IQ0NU,Sardinia
+IQ0NU/P,Sardinia
+IQ0NV,Sardinia
+IQ0NV/P,Sardinia
+IQ0OG,Sardinia
+IQ0QP,Sardinia
+IQ0SS,Sardinia
+IY0GA,Sardinia
+IY1SP/ASB,Italy
+IY1SP/MTN,Italy
+JD1YAA,Minami Torishima
+JG8NQJ/JD1,Minami Torishima
+JW9JKA,Bear Island
+K0ACP,United States
+K0AU,United States
+K0AZZ,Alaska
+K0BAK,United States
+K0DQ,United States
+K0DTJ,United States
+K0EJ,United States
+K0IP,United States
+K0JJ,United States
+K0LUZ,United States
+K0MP,United States
+K0NW,United States
+K0OUS,Hawaii
+K0PJ,United States
+K0SDW,United States
+K0SN,United States
+K0TQ,United States
+K0ZR,United States
+K1DW,United States
+K1GJQ,United States
+K1GU,United States
+K1KD,United States
+K1LT,United States
+K1USA,United States
+K2DRH,United States
+K2DSW,United States
+K2FFT,Hawaii
+K2GMY,United States
+K2GT,Hawaii
+K2PM,United States
+K2PO,United States
+K2RD,United States
+K2UR,United States
+K2VV,United States
+K3DMG,United States
+K3EST,United States
+K3IE,United States
+K3JWI,United States
+K3PA,United States
+K3UNS,Hawaii
+K3WA,United States
+K3WT,United States
+K3WYC,United States
+K3YP,United States
+K4AB,United States
+K4AFE,United States
+K4AMC,United States
+K4BX,United States
+K4CMS,United States
+K4CWW,United States
+K4DG,United States
+K4DXV,United States
+K4EDI,United States
+K4FT,United States
+K4FXN,United States
+K4HAL,United States
+K4IE,United States
+K4IQJ,United States
+K4IU,United States
+K4LTA,United States
+K4OAQ,United States
+K4OWR,United States
+K4RO,United States
+K4TCG,United States
+K4UB,United States
+K4VOZ,United States
+K4WI,United States
+K4WW,United States
+K4XS,Hawaii
+K4XU,United States
+K4YJ,United States
+K4ZGB,United States
+K5DOW,Alaska
+K5EK,United States
+K5GDX,United States
+K5KG,United States
+K5OA,United States
+K5ROE,United States
+K5RR,United States
+K5TRI,United States
+K5VIP,United States
+K5WK,United States
+K5ZD,United States
+K6AMA,Hawaii
+K6ANE,Alaska
+K6GUY,Hawaii
+K6ND,United States
+K6XT,United States
+K6ZB,United States
+K7ABV,United States
+K7BG,United States
+K7BV,United States
+K7DR,United States
+K7GM,United States
+K7IA,United States
+K7LTV,United States
+K7MKL,United States
+K7MOA,United States
+K7NRJ,Hawaii
+K7OM,United States
+K7QA,United States
+K7SCX,United States
+K7SV,United States
+K7TD,United States
+K7ZYV,United States
+K8AC,United States
+K8ARY,United States
+K8CN,United States
+K8EUT,Hawaii
+K8FC,United States
+K8GU,United States
+K8IA,United States
+K8JQ,United States
+K8LS,United States
+K8MN,United States
+K8NY,United States
+K8NYG,United States
+K8PO,United States
+K8RF,US Virgin Islands
+K8SYH,United States
+K8TE,United States
+K8WDX,United States
+K9CQ,United States
+K9DR,United States
+K9DU,United States
+K9ES,United States
+K9FD,Hawaii
+K9JF,United States
+K9JM,United States
+K9JWV,United States
+K9OM,United States
+K9OZ,United States
+K9QJS,United States
+K9RS,United States
+K9VV,US Virgin Islands
+K9WA,United States
+K9WM,United States
+K9WZB,United States
+K9YC,United States
+KA0RU,Guam
+KA1KIX,United States
+KA3DRR,United States
+KA3MTT,United States
+KA4GAV,United States
+KA5DWI,United States
+KA7PNH,United States
+KA7RKW,Hawaii
+KA8HDE,United States
+KA8Q,United States
+KA9A,United States
+KA9FOX,United States
+KB3ZUD,US Virgin Islands
+KB5EZ,United States
+KB5OWT,Hawaii
+KB7G,Hawaii
+KB7H,United States
+KB7JB,Hawaii
+KB7Q,United States
+KB7VUR,Hawaii
+KB7YEC,Alaska
+KB8KMH,United States
+KB8V,United States
+KB9S,United States
+KC0CYR,Alaska
+KC0EF,Alaska
+KC0WQU,Hawaii
+KC0ZER,Hawaii
+KC1DL,Alaska
+KC2KMU,Alaska
+KC2LM,United States
+KC2TE,Puerto Rico
+KC2UXP,Puerto Rico
+KC3AZX,United States
+KC3GZT,Hawaii
+KC4AAA,Antarctica
+KC4AAC,Antarctica
+KC4HW,United States
+KC4SAW,United States
+KC4TEO,United States
+KC4WQ,United States
+KC6SWR,Hawaii
+KC7I,Hawaii
+KC7QY,United States
+KC7VHF,Hawaii
+KC7VWU,Hawaii
+KC8GCR,United States
+KD0DHU,Alaska
+KD0PZ,United States
+KD4SN,United States
+KD5ACN,Hawaii
+KD5DD,United States
+KD5M,United States
+KD5UVV,United States
+KD7MGO,Alaska
+KD7ZTJ,Alaska
+KD8DDY,Alaska
+KD9LA,United States
+KE0L,United States
+KE1B,United States
+KE2VB,United States
+KE4ETY,United States
+KE4KY,United States
+KE4YVD,United States
+KE5GEB,Alaska
+KE5NLG,Alaska
+KE5PRL,United States
+KE5VPO,Alaska
+KE7FNC,Alaska
+KE7GMC,Guam
+KE7IZS,Hawaii
+KE7KRQ,Hawaii
+KE7KYU,Alaska
+KE7PEQ,Hawaii
+KE7PXV,Alaska
+KE7X,United States
+KE8FT,United States
+KE9B,United States
+KF2T,United States
+KF4OOB,Hawaii
+KF4TBD,Alaska
+KF6UWT,Alaska
+KG4CUY,United States
+KG4GEK,United States
+KG4W,United States
+KG5KHO,US Virgin Islands
+KG5MIB,Alaska
+KG6DX,Guam
+KG6EFD,Hawaii
+KG6JDX,Guam
+KG6MC,United States
+KG7CUR,Alaska
+KG7SVM,Alaska
+KG7SVN,Alaska
+KH0WJ,Hawaii
+KH2D,United States
+KH2N,United States
+KH2SR,United States
+KH6M,United States
+KH6TO,United States
+KH6VM,United States
+KH7DA,Alaska
+KH7R,United States
+KH8S/NA6M,Swains Island
+KI4NGY,Alaska
+KI4WOA,Puerto Rico
+KI4WOB,Puerto Rico
+KI6DY,United States
+KI6EFY,Hawaii
+KI6FTE,Hawaii
+KI6HBZ,Hawaii
+KI6LPT,Hawaii
+KI7COR,Alaska
+KI7EZG,Hawaii
+KI7MT,United States
+KJ4AOM,United States
+KJ4IWZ,United States
+KJ4KKD,United States
+KJ4LTA,United States
+KK4TE,United States
+KK4YIT,Hawaii
+KK5OQ,United States
+KK6BRW,Hawaii
+KK6L,United States
+KK6MC,United States
+KK7JS,United States
+KK9A,United States
+KL0MP,United States
+KL7IKV,United States
+KL7QW,United States
+KL7SG,United States
+KL8X,United States
+KM4FO,United States
+KM4FRM,United States
+KM4JA,United States
+KM4TJI,Alaska
+KM6BOQ,Hawaii
+KM7W,United States
+KM9R,United States
+KN4CCY,Alaska
+KO0Z,United States
+KO4OL,United States
+KO8SCA,United States
+KO9V,United States
+KP2X,United States
+KP2Z,Puerto Rico
+KP4KD,United States
+KQ0J,United States
+KR4F,United States
+KS4L,United States
+KS4X,United States
+KS7T,United States
+KS9A,United States
+KT3M,United States
+KT4RR,United States
+KU1CW,United States
+KU4A,United States
+KU8E,United States
+KV4BT,US Virgin Islands
+KV4FZ,US Virgin Islands
+KV4KW,US Virgin Islands
+KV8S,United States
+KW4J,United States
+KW7D,United States
+KW7Q,United States
+KX2P,United States
+KX4X,United States
+KY0W,United States
+KY4F,United States
+KY4XX,United States
+KY6AA,United States
+KZ1W,United States
+KZ2V,United States
+KZ9V,United States
+LU1AAS/D,Argentina
+LU1ZA,South Orkney Islands
+LU2DVI/H,Argentina
+LU3AJL/D,Argentina
+LU3CT/D,Argentina
+LU4AA/D,Argentina
+LU4AA/F,Argentina
+LU4AA/O,Argentina
+LU8DCF/D,Argentina
+MM0LSM,Shetland Islands
+MM0NQY,Shetland Islands
+MM0XAU,Shetland Islands
+MM0ZAL,Shetland Islands
+MM0ZCG,Shetland Islands
+MM0ZRC,Shetland Islands
+MM1FJM,Shetland Islands
+MM3VQO,Shetland Islands
+MM5PSL,Shetland Islands
+MM5YLO,Shetland Islands
+MM6BDU,Shetland Islands
+MM6BZQ,Shetland Islands
+MM6IKB,Shetland Islands
+MM6IMB,Shetland Islands
+MM6MFA,Shetland Islands
+MM6PTE,Shetland Islands
+MM6SJK,Shetland Islands
+MM6YLO,Shetland Islands
+MM6ZBG,Shetland Islands
+MM6ZDW,Shetland Islands
+MM8A,Shetland Islands
+MS0ZCG,Shetland Islands
+MS0ZET,Shetland Islands
+N0EF,United States
+N0KQ,United States
+N0KVN,United States
+N0PJV,Hawaii
+N0QQ,United States
+N0SN,Alaska
+N0XS,Alaska
+N1CC,United States
+N1JM,United States
+N1KEZ,United States
+N1KW,United States
+N1NJS,Alaska
+N1QFE,Alaska
+N1VKI,US Virgin Islands
+N1YLH,Hawaii
+N2BJ,United States
+N2CJN,United States
+N2IC,United States
+N2MI,Guam
+N2NS,United States
+N3BB,United States
+N3BBQ,United States
+N3BUO,United States
+N3KCJ,United States
+N3RC,United States
+N3XRU,United States
+N3ZFY,Hawaii
+N3ZZ,United States
+N4AB,United States
+N4ARO,United States
+N4AU,United States
+N4AVX,Alaska
+N4BCD,United States
+N4CM,Alaska
+N4DW,United States
+N4HAI,United States
+N4IJ,United States
+N4JRG,United States
+N4KG,United States
+N4KH,United States
+N4NA,United States
+N4NM,United States
+N4NO,United States
+N4OGW,United States
+N4QS,United States
+N4SDB,United States
+N4TZ,United States
+N4UC,United States
+N4UW,United States
+N4VI,United States
+N4VN,United States
+N4VV,United States
+N4WE,United States
+N4XH,United States
+N4ZI,United States
+N4ZZ,United States
+N5CR,United States
+N5CW,United States
+N5DX,United States
+N5FPW,United States
+N5PU,United States
+N5RP,United States
+N5SMQ,United States
+N5TF,United States
+N5TOO,United States
+N5YT,United States
+N5ZO,United States
+N6AI,Hawaii
+N6AR,United States
+N6FS,United States
+N6JM,Alaska
+N7AMY,Hawaii
+N7DF,United States
+N7DR,United States
+N7DXT,United States
+N7FLT,United States
+N7FUL,United States
+N7IP,United States
+N7IV,United States
+N7MZW,United States
+N7NG,United States
+N7US,United States
+N7WY,United States
+N8AID,United States
+N8CL,United States
+N8CS,Mariana Islands
+N8II,United States
+N8NA,United States
+N8OO,United States
+N8OQ,United States
+N8PR,United States
+N8TUT,United States
+N8WXQ,United States
+N9AIG,Alaska
+N9CIQ,United States
+N9CRQ,Hawaii
+N9DFD,United States
+N9JF,United States
+N9NA,United States
+N9NB,United States
+N9NC,United States
+N9NM,United States
+N9RV,United States
+N9SB,United States
+N9VPV,United States
+NA4C,United States
+NA4K,United States
+NA5NN,United States
+NA9RB,United States
+NB4M,United States
+ND2T,United States
+ND4X,United States
+ND4Y,United States
+NE7EK,Alaska
+NE8P,United States
+NH2B,Mariana Islands
+NH7WC,Guam
+NI7R,United States
+NJ8J,United States
+NJ8M,United States
+NK4P,United States
+NK8Q,United States
+NL7CQ,United States
+NL7QC,United States
+NL7XM,United States
+NN4MM,United States
+NN4NN,Alaska
+NN5O,United States
+NN7A,United States
+NN7CW,United States
+NO9E,United States
+NP2GG,United States
+NQ6N,United States
+NR7DX,United States
+NS4X,United States
+NT4AA,Hawaii
+NU4N,United States
+NV4B,United States
+NW7R,United States
+NW8U,United States
+NX1P,United States
+NY6DX,United States
+OF100FI/0,Aland Islands
+OJ1ABOA,Antarctica
+R100FNR,Asiatic Russia
+R110A,European Russia
+R110A/P,European Russia
+R1255F,Kaliningrad
+R17CWH,Asiatic Russia
+R200A,Ukraine
+R25ILIM,European Russia
+R280TLT,European Russia
+R2AEA/9,Asiatic Russia
+R2MWO,Kaliningrad
+R3YAB/9/P,Asiatic Russia
+R44WFF,Asiatic Russia
+R66IOTA,Asiatic Russia
+R6UAE/9,Asiatic Russia
+R7AB/9,Asiatic Russia
+R7AB/P,Asiatic Russia
+R870K,European Russia
+R8CT/4/P,European Russia
+R8CZ/4,Asiatic Russia
+R8FF/3,European Russia
+R8FF/P,European Russia
+R8WC/6,European Russia
+R8WC/6/P,European Russia
+R9CMA/4,European Russia
+R9CZ/4,European Russia
+R9KW/4,European Russia
+R9PA/4,European Russia
+RA0UAC/8,Asiatic Russia
+RA0UF/8,Asiatic Russia
+RA1ZZ/0,Asiatic Russia
+RA2FDX/3,European Russia
+RA70AA,Asiatic Russia
+RA9KD/6,European Russia
+RA9WN/9,Asiatic Russia
+RD17CW,Asiatic Russia
+RD3ARX/0/P,Asiatic Russia
+RG0F/5,European Russia
+RG5A/8,Asiatic Russia
+RI1ANC,Antarctica
+RI1ANF,South Shetland Islands
+RI1ANO,South Shetland Islands
+RI1ANP,Antarctica
+RI1ANR,Antarctica
+RI1ANZ,Antarctica
+RJ17CW,Asiatic Russia
+RJ4P,European Russia
+RK17CW,Asiatic Russia
+RK8O/4,European Russia
+RK9DR/N,Asiatic Russia
+RL5G/0,Asiatic Russia
+RL5G/8,Asiatic Russia
+RL5G/9,Asiatic Russia
+RM4R,European Russia
+RN17CW,Asiatic Russia
+RO17CW,Asiatic Russia
+RQ17CW,Asiatic Russia
+RT9K/6/P,European Russia
+RT9K/7,European Russia
+RT9S/4,European Russia
+RT9T/3,European Russia
+RU9MU/3,European Russia
+RU9SO/4/P,Asiatic Russia
+RV3DSA/0,Asiatic Russia
+RV9CHB/4,Asiatic Russia
+RV9MD/4,European Russia
+RW9WJ/4,European Russia
+RX15RX,Asiatic Russia
+RX3XX/N,European Russia
+RX9WN/4,European Russia
+RZ5D/0,Asiatic Russia
+RZ9SZ/3,European Russia
+SV0XCA/5,Dodecanese
+SV2ASP/A,Mount Athos
+TA1BX/3,Asiatic Turkey
+TA1D/3,Asiatic Turkey
+TO1A,French Guiana
+TO2A,French Guiana
+TO2T,Guadeloupe
+TO5A,Martinique
+TO5T,Martinique
+TO7A,Martinique
+TX3X,Chesterfield Islands
+TX5C,New Caledonia
+TX5EG,French Polynesia
+TX5JF,French Polynesia
+TX5P,Clipperton Island
+UA0KBG/9,Asiatic Russia
+UA0KCX/3,European Russia
+UA0QQO/9/P,Asiatic Russia
+UA4NF,European Russia
+UA4PN,European Russia
+UA9JFE/9/P,Asiatic Russia
+UA9JPX/6,European Russia
+UA9PM/4,European Russia
+UA9SY/4,European Russia
+UB1AJQ/0,Asiatic Russia
+UB8ADI/6,European Russia
+UE00S,European Russia
+UE00S/P,European Russia
+UE08F,Kaliningrad
+UE40CZF,Asiatic Russia
+UE80AR,European Russia
+UE80AR/P,European Russia
+UE80NSO,Asiatic Russia
+VA2PL,Canada
+VA2RC,Canada
+VA2UA,Canada
+VE2CSI,Canada
+VE2EKA,Canada
+VE2ENB,Canada
+VE2FK,Canada
+VE2IDX,Canada
+VE2IM,Canada
+VE2XZ/3,Canada
+VE7APF/3,Canada
+VER20170814,Canada
+VERSION,United Arab Emirates
+VK0EK,Heard Island
+VK6NX/3,Australia
+VK9AA,Christmas Island
+VK9VKL,Christmas Island
+VP6DX,Ducie Island
+VP8CA,South Georgia Island
+VP8DPE,Antarctica
+VP8DPJ,Antarctica
+VP8DXU,South Sandwich Islands
+VU3LBP,Antarctica
+VU3LBP/P,Antarctica
+VY0PW,Canada
+W0BR,United States
+W0CN,United States
+W0FJN,Alaska
+W0GG,United States
+W0JX,United States
+W0NA,United States
+W0PAN,United States
+W0PV,United States
+W0QQG,United States
+W0RIC,United States
+W0UNI,Hawaii
+W0YK,United States
+W0ZP,United States
+W1DGL,United States
+W1GKT,United States
+W1JCW,United States
+W1NN,United States
+W1PR,United States
+W1RH,United States
+W1SRD,United States
+W1WMU,United States
+W1ZD,United States
+W2GS,United States
+W2KRZ,Alaska
+W2UP,United States
+W2VJN,United States
+W3DQN,United States
+W3FM,Mariana Islands
+W3HG,American Samoa
+W3HKK,United States
+W3NX,United States
+W4BCG,United States
+W4BMR,Alaska
+W4CQE,United States
+W4DAN,United States
+W4DVG,United States
+W4ER,United States
+W4GKM,United States
+W4GZX,United States
+W4HOD,United States
+W4II,United States
+W4JSI,United States
+W4KW,United States
+W4LC,United States
+W4NBS,United States
+W4NI,United States
+W4NZ,United States
+W4TTM,United States
+W4TZX,United States
+W4UAL,United States
+W4UAT,United States
+W4UT,United States
+W4YPW,United States
+W4ZN,United States
+W5BEN,United States
+W5FJG,Hawaii
+W5JR,United States
+W5MX,United States
+W5NZ,United States
+W5PET,United States
+W5THT,United States
+W5VE,United States
+W5XB,United States
+W6GMT,United States
+W6IHG,United States
+W6KGP,United States
+W6KV,Guam
+W6LFB,United States
+W6LN,Alaska
+W6MRJ,Hawaii
+W6NBK,Hawaii
+W6NF,United States
+W6NWS,United States
+W6RLL,United States
+W6UB,United States
+W6XR,United States
+W7DO,United States
+W7DXX,United States
+W7GVC,Guam
+W7HJ,United States
+W7IWW,United States
+W7JMR,Alaska
+W7KAM,United States
+W7KF,United States
+W7NX,Hawaii
+W7RY,United States
+W7SE,United States
+W8AKS,United States
+W8FJ,United States
+W8FN,United States
+W8HAP,United States
+W8HGH,United States
+W8KA,United States
+W8KX,United States
+W8LMG,United States
+W8LYJ,United States
+W8OV,United States
+W8TK,United States
+W8WEJ,United States
+W8WOM,United States
+W8ZA,United States
+W9CF,United States
+W9DCA,United States
+W9JEF,United States
+W9JS,Puerto Rico
+W9KKN,United States
+W9LHG,United States
+W9MAF,United States
+W9PL,United States
+W9RNY,United States
+WA0WWW,United States
+WA1FCN,United States
+WA1UJU,United States
+WA2VYA,United States
+WA3C,United States
+WA4JA,United States
+WA5POK,United States
+WA5VGI,United States
+WA7B,Alaska
+WA8KAN,United States
+WA8OJR,United States
+WA8QYJ,United States
+WA8WZG,United States
+WA8ZBT,United States
+WB2JEP,United States
+WB3JFS,United States
+WB4IT,United States
+WB4JTT,Hawaii
+WB4YDL,United States
+WB4YDY,United States
+WB7PVL,United States
+WB7QWM,Alaska
+WB7S,United States
+WB8CQV,United States
+WB8IMY,United States
+WB8YQJ,United States
+WB8YSQ,United States
+WB8YYY,United States
+WB9KPT,United States
+WB9QAF,United States
+WC7S,United States
+WD5CCA,United States
+WD5F,United States
+WE6EZ,United States
+WF4U,United States
+WF7T,United States
+WG8Y,United States
+WH2ACT,United States
+WH6AQ,United States
+WH6W,United States
+WH7AK,Alaska
+WH7R,United States
+WJ9B,United States
+WK4AA,United States
+WK7G,United States
+WL7OU,United States
+WM5DX,United States
+WP2C,United States
+WP3ME,United States
+WP3Q,United States
+WQ5L,United States
+WQ9T,United States
+WR3O,United States
+WR5J,United States
+WR8Z,Puerto Rico
+WS6K,United States
+WS6X,United States
+WS7X,United States
+WS9M,United States
+WT2P,United States
+WT5L,United States
+WU6C,United States
+WW4R,United States
+WX5S,United States
+WY7FD,United States
+WY7I,United States
+WY7KY,United States
+WY7SS,United States
+WZ4F,United States
+WZ7I,United States
