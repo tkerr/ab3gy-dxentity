@@ -29,10 +29,12 @@ print(entity, cont, cqzone, ituzone, dxcc, country)
 (entity, cont, cqzone, ituzone, dxcc, country) = dxentity.get_dx_info('VERSION')
 print(entity, cont, cqzone, ituzone, dxcc, country)
 ```
-Output: 
-`United States`
-`K NA 5 8 291 United States`
-`CN AF 33 37 446 Morocco`
+Output:  
+```
+United States  
+K NA 5 8 291 United States  
+CN AF 33 37 446 Morocco  
+```
 
 ### Database Setup
 Use the `db_utils.py` application to import a new cty.dat file and create a sqlite database:
