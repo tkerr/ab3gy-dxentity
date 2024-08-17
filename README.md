@@ -14,6 +14,7 @@ Developed for personal use by the author, but available to anyone under the lice
 The current sqlite database was created from **CTY-3429 (CN, Morocco)**  
 
 ## Example Use
+
 ```
 import dxentity
 
@@ -21,18 +22,34 @@ import dxentity
 country = dxentity.get_country('AB3GY')
 print(country)
 
+# Output:  
+United States  
+```
+
+```
 # Get a DX info tuple
 (entity, cont, cqzone, ituzone, dxcc, country) = dxentity.get_dx_info('AB3GY')
 print(entity, cont, cqzone, ituzone, dxcc, country)
 
+# Output:  
+K NA 5 8 291 United States   
+```
+
+```
+# Operating in a different country
+(entity, cont, cqzone, ituzone, dxcc, country) = dxentity.get_dx_info('HB0/AB3GY')
+print(entity, cont, cqzone, ituzone, dxcc, country)
+
+Output:  
+HB0 EU 14 28 251 Liechtenstein  
+```
+
+```
 # Get the current database version
 (entity, cont, cqzone, ituzone, dxcc, country) = dxentity.get_dx_info('VERSION')
 print(entity, cont, cqzone, ituzone, dxcc, country)
-```
-Output:  
-```
-United States  
-K NA 5 8 291 United States  
+
+# Output:   
 CN AF 33 37 446 Morocco  
 ```
 
