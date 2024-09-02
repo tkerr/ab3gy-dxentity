@@ -68,7 +68,7 @@ def print_usage():
     Print a usage statement and exit.
     """
     scriptname = os.path.basename(sys.argv[0])
-    print('Usage: {} <cmd> [arg1] [dxcc_list.csv]'.format(scriptname))
+    print('Usage: {} <cmd> [cty.dat] [dxcc_list.csv]'.format(scriptname))
     print('Run maintenance utilities on the dxentity database.')
     print('Commands:')
     print('  1: Delete the existing database (cannot be undone)')

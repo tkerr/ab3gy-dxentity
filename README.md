@@ -11,7 +11,7 @@ A format reference can be found here:  http://www.country-files.com/cty-dat-form
 
 Developed for personal use by the author, but available to anyone under the license terms below.  
 
-The current sqlite database was created from **CTY-3429 (CN, Morocco)**  
+The current sqlite database was created from **CTY-3430 (FT, Glorioso Islands)**  
 
 ## Example Use
 
@@ -56,17 +56,20 @@ CN AF 33 37 446 Morocco
 ### Database Setup
 Use the `db_utils.py` application to import a new cty.dat file and create a sqlite database:
 ```
-python db_utils.py 4 ./cty/cty.dat ./cty/dxcc_list.csv
+python db_utils.py 4 ./cty/cty.dat ./cty/dxcc_list.csv  
 ```
 Custom aliases and callsigns can be added from a CSV file:
 ```
-python db_utils.py 5 custom_alias.csv
+python db_utils.py 5 custom_alias.csv  
 ```
 
 Use the `cty_utils.py` application to check a new cty.dat file:
 ```
-python cty_utils.py 7 ./cty/cty.dat ./cty/dxcc_list.csv
+python cty_utils.py 7 ./cty/cty.dat ./cty/dxcc_list.csv  
 ```
+
+Run each script with no parameters to see help text.  
+
  
 ## Author
 Tom Kerr AB3GY

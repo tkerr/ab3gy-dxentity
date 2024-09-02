@@ -66,6 +66,25 @@ from db_api import db_api
 ###############################################################################
 
 #------------------------------------------------------------------------------
+def check_alias(api, call, alias, waedc):
+    """
+    Check prefix/suffix to see if it contains a country alias.
+    """
+    result_list = []
+    if (len(alias) > 0):
+        # Try the alias as-is.
+        result_list = api.select_alias(alias)
+        if (len(result_list) == 0):
+            # Strip digit from end of alias and try again.
+            if (len(alias) > 1) and (alias[-1].isnumeric()):
+                result_list = api.select_alias(alias[:-1])
+        #print(result_list)
+        if (len(result_list) > 0):
+            result_list = check_entity_suffix(call, result_list)
+            result_list = check_waedc(result_list, waedc)
+    return result_list
+    
+#------------------------------------------------------------------------------
 def check_entity_suffix(call, result_list):
     """
     Check the entity suffix when the result list has multiple results.
@@ -122,6 +141,7 @@ def split_callsign(callsign):
     elif (sfx == 'R'): sfx = ''
     elif sfx.isnumeric(): sfx = ''
     
+    # print(pfx, call, sfx)
     return (pfx, call, sfx)
 
 #------------------------------------------------------------------------------
@@ -148,18 +168,14 @@ def callsign_lookup(callsign, waedc=-1):
     
     # Check the prefix.
     if (len(pfx) > 0):
-        result_list = api.select_alias(pfx)
+        result_list = check_alias(api, call, pfx, waedc)
         if (len(result_list) > 0):
-            result_list = check_entity_suffix(call, result_list)
-            result_list = check_waedc(result_list, waedc)
             return result_list
             
     # Check the suffix.
     if (len(sfx) > 0):
-        result_list = api.select_alias(sfx)
+        result_list = check_alias(api, call, sfx, waedc)
         if (len(result_list) > 0):
-            result_list = check_entity_suffix(call, result_list)
-            result_list = check_waedc(result_list, waedc)
             return result_list
 
     if (len(call) > 0):
