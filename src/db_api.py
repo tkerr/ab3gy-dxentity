@@ -124,10 +124,10 @@ class db_api(object):
             rowid = ID of inserted row if successful, -1 otherwise.
         """
         sql = 'INSERT INTO {}('.format(schema.TABLE_CALLSIGN)
-        sql += 'CALLSIGN, TYPE, PRIORITY, ENTITY, CQZONE, ITUZONE, CONT, LAT, LON, GMTOFFSET, WAEDC) '
-        sql += 'VALUES(?,?,?,?,?,?,?,?,?,?,?)'
-        data = (entry['ALIAS'], 'CALLSIGN', entry['ORDER'], entry['ENTITY'], entry['CQ_ZONE'], entry['ITU_ZONE'], \
-            entry['CONT'], entry['LAT'], entry['LON'], entry['GMT_OFFSET'], entry['WAEDC'])
+        sql += 'CALLSIGN, TYPE, PRIORITY, ENTITY, SUFFIX, CQZONE, ITUZONE, CONT, LAT, LON, GMTOFFSET, WAEDC) '
+        sql += 'VALUES(?,?,?,?,?,?,?,?,?,?,?,?)'
+        data = (entry['ALIAS'], 'CALLSIGN', entry['ORDER'], entry['ENTITY'], entry['SUFFIX'], entry['CQ_ZONE'], \
+            entry['ITU_ZONE'], entry['CONT'], entry['LAT'], entry['LON'], entry['GMT_OFFSET'], entry['WAEDC'])
         try:
             self.cursor.execute(sql, data)
             self.connection.commit()
@@ -253,9 +253,9 @@ class db_api(object):
         """
         result_list = self.select_callsign('VERSION', country=True)
         if (len(result_list) > 0):
-            version = (result_list[0]['ENTITY'], result_list[0]['COUNTRY'])
+            version = (result_list[0]['ENTITY'], result_list[0]['SUFFIX'], result_list[0]['COUNTRY'])
         else:
-            version = ('','')
+            version = ('','','')
         return version
     
     # ------------------------------------------------------------------------

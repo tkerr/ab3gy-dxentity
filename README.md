@@ -11,7 +11,7 @@ A format reference can be found here:  http://www.country-files.com/cty-dat-form
 
 Developed for personal use by the author, but available to anyone under the license terms below.  
 
-The current sqlite database was created from **CTY-3430 (FT, Glorioso Islands)**  
+The current sqlite database was created from **CTY-3430 (FT/g, Glorioso Islands)**  
 
 ## Example Use
 

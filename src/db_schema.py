@@ -55,6 +55,7 @@ TABLE_CALLSIGN_COLUMNS = [
     'TYPE TEXT',                   # Always "CALLSIGN"
     'PRIORITY INTEGER DEFAULT 0',  # The cty.dat priority search order (ORDER is a reserved keyword)
     'ENTITY TEXT',                 # The primary entity prefix from cty.dat
+    'SUFFIX TEXT',                 # The primary entity suffix from cty.dat
     'CQZONE INTEGER DEFAULT 0',
     'ITUZONE INTEGER DEFAULT 0',
     'CONT CHARACTER(2)',

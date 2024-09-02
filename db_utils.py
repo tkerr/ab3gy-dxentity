@@ -197,6 +197,17 @@ def db_dump():
     print(json.dumps(result_list, sort_keys=True, indent=2))
     print('Record count: {}'.format(len(result_list)))
 
+#------------------------------------------------------------------------------
+def db_get_version():
+    """
+    Print the database version.
+    """
+    api = db_api()
+    (entity, suffix, country) = api.get_version()
+    if (len(suffix) > 0):
+        entity += '/{}'.format(suffix.lower())
+    print('{}, {}'.format(entity, country))
+
 
 ###############################################################################
 # Main program test script.
@@ -241,8 +252,7 @@ if __name__ == "__main__":
             print('No custom_alias.csv file specified.')
             print_usage()
     elif (cmd == 6):
-        api = db_api()
-        print(api.get_version())
+        db_get_version()
     elif (cmd == 7):
         db_dump()
     else:
