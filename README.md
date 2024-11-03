@@ -11,7 +11,7 @@ A format reference can be found here:  http://www.country-files.com/cty-dat-form
 
 Developed for personal use by the author, but available to anyone under the license terms below.  
 
-The current sqlite database was created from **CTY-3430 (FT/g, Glorioso Islands)**  
+The current sqlite database was created from **CTY-3436 (San Felix & San Ambrosio, CE0X)**  
 
 ## Example Use
 
@@ -60,7 +60,7 @@ python db_utils.py 4 ./cty/cty.dat ./cty/dxcc_list.csv
 ```
 Custom aliases and callsigns can be added from a CSV file:
 ```
-python db_utils.py 5 custom_alias.csv  
+python db_utils.py 5 ./cty/custom_alias.csv  
 ```
 
 Use the `cty_utils.py` application to check a new cty.dat file:
