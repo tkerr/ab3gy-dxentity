@@ -11,7 +11,7 @@ A format reference can be found here:  http://www.country-files.com/cty-dat-form
 
 Developed for personal use by the author, but available to anyone under the license terms below.  
 
-The current sqlite database was created from **CTY-3502 (Bulgaria, LZ)**  
+The current sqlite database was created from **CTY-3524 (Crete, SV9)**  
 
 ## Example Use
 
@@ -50,7 +50,7 @@ HB0 EU 14 28 251 Liechtenstein
 print(entity, cont, cqzone, ituzone, dxcc, country)
 
 # Output:   
-LZ EU 20 28 212 Bulgaria  
+SV9 EU 20 28 40 Crete  
 ```
 
 ### Database Setup

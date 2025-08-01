@@ -47,9 +47,10 @@ import json
 import _env_init
 
 # Local packages.
-from db_api import db_api
+from dxentity import get_country_from_dxcc
+from dxe_db_api import dxe_db_api
 import parse_cty
-import db_tables as tables
+import dxe_db_tables as tables
 
 
 ###############################################################################
@@ -77,7 +78,8 @@ def print_usage():
     print('  4 <cty.dat> [dxcc_list.csv]: Run commands 1, 2 and 3')
     print('  5 <custom_alias.csv>: Add custom aliases to existing database from csv file')
     print('  6: Print the database version')
-    print('  7: Dump the database')
+    print('  7 <dxcc>: Print the country name for the DXCC number')
+    print('  8: Dump the database')
     sys.exit(1)
 
 #------------------------------------------------------------------------------
@@ -114,7 +116,7 @@ def db_import():
     if (len(cty_list) == 0):
         print('Database import error: cty.dat data not found.')
         return
-    api = db_api()
+    api = dxe_db_api()
     (good_count, bad_count) = api.import_data(cty_list)
     print('Successful inserts: {}'.format(good_count))
     print('Failed inserts:     {}'.format(bad_count))
@@ -150,7 +152,7 @@ def db_add_alias_line(line):
     """
     good_count = 0
     bad_count = 0
-    api = db_api()
+    api = dxe_db_api()
     line = line.strip()
     num_seps = line.count(',')
     if (num_seps > 0):
@@ -192,17 +194,22 @@ def db_dump():
     """
     Dump the entire database and pretty print it in JSON format.
     """
-    api = db_api()
+    api = dxe_db_api()
     result_list = api.dump_database()
     print(json.dumps(result_list, sort_keys=True, indent=2))
     print('Record count: {}'.format(len(result_list)))
 
 #------------------------------------------------------------------------------
+def db_get_country(dxcc):
+    country = get_country_from_dxcc(dxcc)
+    print('DXCC: {} = {}'.format(dxcc, country))
+    
+#------------------------------------------------------------------------------
 def db_get_version():
     """
     Print the database version.
     """
-    api = db_api()
+    api = dxe_db_api()
     (entity, suffix, country) = api.get_version()
     if (len(suffix) > 0):
         entity += '/{}'.format(suffix.lower())
@@ -254,6 +261,12 @@ if __name__ == "__main__":
     elif (cmd == 6):
         db_get_version()
     elif (cmd == 7):
+        if (len(sys.argv) > 2):
+            db_get_country(sys.argv[2])
+        else:
+            print('No DXCC number specified.')
+            print_usage()
+    elif (cmd == 8):
         db_dump()
     else:
         print('Unknown command: {}'.format(cmd))

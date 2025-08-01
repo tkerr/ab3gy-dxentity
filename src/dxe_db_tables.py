@@ -1,5 +1,5 @@
 ##############################################################################
-# db_tables.py
+# dxe_db_tables.py
 #
 # Create and manage tables for the dxentity database.
 ##############################################################################
@@ -10,8 +10,8 @@ from pathlib import Path
 import sqlite3
 
 # Local packages.
-import db_schema as schema
-from db_api import db_api
+import dxe_db_schema as schema
+from dxe_db_api import dxe_db_api
 
 
 ##############################################################################
@@ -141,7 +141,7 @@ def create_entity_table():
         True if successful, False otherwise
     """
     ok = False
-    api = db_api()
+    api = dxe_db_api()
     table = schema.TABLE_ENTITY
     if (not has_table(api.cursor, table)):
         ok = create_table(
@@ -163,7 +163,7 @@ def create_callsign_table():
         True if successful, False otherwise
     """
     ok = False
-    api = db_api()
+    api = dxe_db_api()
     table = schema.TABLE_CALLSIGN
     if (not has_table(api.cursor, table)):
         ok = create_table(
@@ -185,7 +185,7 @@ def create_country_table():
         True if successful, False otherwise
     """
     ok = False
-    api = db_api()
+    api = dxe_db_api()
     table = schema.TABLE_COUNTRY
     if (not has_table(api.cursor, table)):
         ok = create_table(

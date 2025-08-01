@@ -1,5 +1,5 @@
 ##############################################################################
-# db_api.py
+# dxe_db_api.py
 #
 # Application Program Interface (API) class for the dxentity database.
 ##############################################################################
@@ -8,7 +8,7 @@ import os
 import sqlite3
 
 # Local packages.
-import db_schema as schema
+import dxe_db_schema as schema
 
 ##############################################################################
 # Globals.
@@ -23,7 +23,7 @@ import db_schema as schema
 ##############################################################################
 # API class.
 ##############################################################################
-class db_api(object):
+class dxe_db_api(object):
     """
     Application Program Interface (API) class for the dxentity database. 
     """

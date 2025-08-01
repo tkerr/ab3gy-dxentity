@@ -53,7 +53,7 @@
 import _env_init
 
 # Local packages.
-from db_api import db_api
+from dxe_db_api import dxe_db_api
 
 
 ###############################################################################
@@ -150,7 +150,7 @@ def callsign_lookup(callsign, waedc=-1):
     Parse a callsign and lookup it's DX related info.
     Returns a result list of zero or more database records.
     """
-    api = db_api()
+    api = dxe_db_api()
     callsign = callsign.strip().upper()
     
     # Check for an exact callsign match.
@@ -209,7 +209,7 @@ def get_country_from_dxcc(dxcc):
     """
     Return the country name for a specified DXCC number.
     """
-    api = db_api()
+    api = dxe_db_api()
     result_list = api.select_dxcc(dxcc)
     if (len(result_list) > 0):
         return result_list[0]['COUNTRY']

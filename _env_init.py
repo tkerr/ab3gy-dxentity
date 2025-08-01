@@ -3,7 +3,7 @@
 # Author: Tom Kerr AB3GY
 #
 # Script to set the runtime environment for custom amateur radio applications.
-# Enforces use of Python 3 and sets a local package path.
+# Sets a local package path.
 # Designed for personal use by the author, but freely available to anyone.
 ###############################################################################
 
