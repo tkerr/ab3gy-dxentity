@@ -8,8 +8,8 @@
 49,3C,Equatorial Guinea
 195,3C0,Annobon Island
 176,3D2,Fiji
-460,3D2,Rotuma Island
 489,3D2,Conway Reef
+460,3D2,Rotuma Island
 468,3DA,Kingdom of Eswatini
 474,3V,Tunisia
 293,3W,Vietnam
@@ -70,7 +70,7 @@
 506,BS7,Scarborough Reef
 386,BV,Taiwan
 505,BV9P,Pratas Island
-818,BY,China
+318,BY,China
 157,C2,Nauru
 203,C3,Andorra
 422,C5,The Gambia
@@ -123,27 +123,27 @@
 162,FK,New Caledonia
 512,FK,Chesterfield Islands
 84,FM,Martinique
-36,FO,Clipperton Island
 175,FO,French Polynesia
 508,FO,Austral Islands
+36,FO,Clipperton Island
 509,FO,Marquesas Islands
 277,FP,St. Pierre & Miquelon
 453,FR,Reunion Island
 213,FS,St. Martin
-10,FT,Amsterdam & St. Paul Is.
-41,FT,Crozet Island
 99,FT,Glorioso Islands
 124,FT,"Juan de Nova, Europa"
-131,FT,Kerguelen Islands
 276,FT,Tromelin Island
+41,FT,Crozet Island
+131,FT,Kerguelen Islands
+10,FT,Amsterdam & St. Paul Is.
 298,FW,Wallis & Futuna Islands
 63,FY,French Guiana
 223,G,England
 114,GD,Isle of Man
 265,GI,Northern Ireland
 122,GJ,Jersey
-241,GM,Shetland Islands
 279,GM,Scotland
+241,GM,Shetland Islands
 106,GU,Guernsey
 294,GW,Wales
 185,H4,Solomon Islands
@@ -156,8 +156,8 @@
 78,HH,Haiti
 72,HI,Dominican Republic
 116,HK,Colombia
-161,HK0,Malpelo Island
 216,HK0,San Andres & Providencia
+161,HK0,Malpelo Island
 137,HL,Republic of Korea
 88,HP,Panama
 80,HR,Honduras
@@ -178,8 +178,8 @@
 177,JD,Minami Torishima
 192,JD,Ogasawara
 363,JT,Mongolia
-259,JW,Bear Island
 259,JW,Svalbard
+259,JW,Bear Island
 118,JX,Jan Mayen
 342,JY,Jordan
 291,K,United States
@@ -240,8 +240,8 @@
 269,SP,Poland
 466,ST,Sudan
 478,SU,Egypt
-180,SV,Mount Athos
 236,SV,Greece
+180,SV,Mount Athos
 45,SV5,Dodecanese
 40,SV9,Crete
 282,T2,Tuvalu
@@ -298,9 +298,9 @@
 513,VP6,Ducie Island
 141,VP8,Falkland Islands
 235,VP8,South Georgia Island
+241,VP8,South Shetland Islands
 238,VP8,South Orkney Islands
 240,VP8,South Sandwich Islands
-241,VP8,South Shetland Islands
 64,VP9,Bermuda
 33,VQ9,Chagos Islands
 321,VR,Hong Kong

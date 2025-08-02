@@ -73,9 +73,9 @@ blank_entity = {
 }
 
 blank_dxcc = {
-    'DXCC'    : 0,
-    'ENTITY'  : '',
-    'COUNTRY' : '',
+    'DXCC'     : 0,
+    'ENTITY'   : '',
+    'COUNTRY'  : '',
 }
 
 current_entity = blank_entity
@@ -323,6 +323,7 @@ def parse_dxcc_csv(filename):
     Public function to parse a DXCC entity CSV file.
     Format is <dxcc-number>,<entity-prefix>,<country-name>
     Returns a list of dxcc entities formatted as dictionaries.
+    The order of entries in the CSV file is the assumed priority of search.
     Also adds the DXCC code to the global cty_list if parse_cty() has been run.
     """
     global cty_list
@@ -349,9 +350,14 @@ def parse_dxcc_csv(filename):
                 new_dxcc['ENTITY'] = fields[1].upper()
                 new_dxcc['COUNTRY'] = country
                 dxcc_list.append(new_dxcc)
+                
+                # Add DXCC code to the ctl_list entry if it is blank.
+                # This assumes that the entity order in cty.dat and the CSV file match.
                 for entry in cty_list:
                     if (entry['ENTITY'] == new_dxcc['ENTITY']):
-                        entry['DXCC'] = new_dxcc['DXCC']
+                        if (entry['DXCC'] == 0):
+                            entry['DXCC'] = new_dxcc['DXCC']
+                            break;
     except Exception as err:
         print('Error parsing CSV file: {}: {}'.format(filename, str(err)))
         return dxcc_list
