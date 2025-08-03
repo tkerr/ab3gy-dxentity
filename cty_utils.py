@@ -133,12 +133,13 @@ def check_dxcc():
     if (len(dxcc_list) == 0):
         print('Empty DXCC list, check not performed.')
         return
-    print('Check for zero DXCC values in cty.dat data')
+    print('Check for zero DXCC values in cty.dat entity data')
     for entry in cty_list:
-        if (entry['DXCC'] <= 0):
-            any_error = True
-            print('Invalid DXCC:')
-            print(entry)
+        if (entry['TYPE'] == 'ENTITY'):
+            if (entry['DXCC'] <= 0):
+                any_error = True
+                print('Invalid DXCC:')
+                print(entry)
     if not any_error:
         print('No errors found.')
 

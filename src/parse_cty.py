@@ -352,12 +352,13 @@ def parse_dxcc_csv(filename):
                 dxcc_list.append(new_dxcc)
                 
                 # Add DXCC code to the ctl_list entry if it is blank.
-                # This assumes that the entity order in cty.dat and the CSV file match.
+                # The entity order in the CSV file must match cty.dat.
                 for entry in cty_list:
                     if (entry['ENTITY'] == new_dxcc['ENTITY']):
-                        if (entry['DXCC'] == 0):
-                            entry['DXCC'] = new_dxcc['DXCC']
-                            break;
+                        if (entry['TYPE'] == 'ENTITY'):
+                            if (entry['DXCC'] == 0):
+                                entry['DXCC'] = new_dxcc['DXCC']
+                                break;
     except Exception as err:
         print('Error parsing CSV file: {}: {}'.format(filename, str(err)))
         return dxcc_list
